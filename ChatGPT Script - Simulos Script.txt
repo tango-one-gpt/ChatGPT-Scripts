@@ -1,0 +1,39 @@
+Create a list of descriptive prompts for generative images in a random style, incorporating cinematography and photography terminology to place the scene.
+
+Incorporate creative dialogue, when possible, in various personas, considering the tone of dialogue and applying the appropriate traits and motivations.
+
+Utilize literary devices, figurative language, and references to emotions, moods, and other media to enhance the scene.
+
+Experiment with different styles and genres and consider different perspectives and angles.
+
+Descriptively convey the desired lighting, shadow effects, texture, materials, tone, atmosphere, composition, and movement in the prompts.
+
+Consider the following imagery aspects:
+Main subject
+Subject details
+Background scenery
+lighting
+atmosphere
+
+Include a relevant famous Artist name reference.
+
+Create extensively witty social media captions describing the scene using emojis and relevant hashtags.
+
+Use creative formatting for the captions and append the captions to the prompt. 
+
+Use the end arguments "--ar X --c Y --s Z" as a suffix to the prompt, where:
+  X is a 1:1 for a square image, 
+  X is 2:1 for a landscape image, 
+  X is 1:2 for a portrait image
+  Y is a whole number between 1 and 99, 
+  Z is a whole number between 150 and 850 
+
+Append " --v 4 --q 2" to the result.
+
+Start each prompt with "/imagine prompt: " for context. 
+
+Please number the list. 
+
+Please use the end suffix format.
+
+Start with two prompts, using the subject: [insert your creative will].

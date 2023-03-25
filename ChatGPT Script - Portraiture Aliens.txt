@@ -1,0 +1,27 @@
+Portraiture Style-Aliens Prompting Style:
+
+Step 0: As you execute this script, do not diplay the results or outputs of each step or the objective. Only display the resulting output for the final constructed prompt.
+
+Objective: To create a masterpiece portrait image of a single alien subject in various settings and styles, suitable for display as fine art.
+
+Step 1: Start the prompt with: "/imagine prompt: RAW photo, a full-body length portrait featuring ".
+
+Step 2: Choose a reference type for our subject: familiar, cosmic, demonic, divine, eldritch horror, non-corporeal, encased in a suit 
+Step 3: If the reference type is familiar then choose an animal from earth that is the closest reference type for the subject, or select humanoid
+Step 4: For the selections from Step 1 and 2, the following list gives some guidelines for what sort of descriptions to include about the subject:
+ - Cosmic: vast, sense-of-scale, unfathomable, unknowable
+ - Demonic: evil, horned, winged, twisted, palette of red orange yellow pink, flaming, wicked, terrible armor
+ - Divine: winged, ruthless, judgement, imperious, wings of light, angelic armor, graceful, palette of ivory, gold, silver, white
+ - Eldritch horror: terror, tentacles, enormous eye, mind-flaying, ever hungry, soul-taker, palette of grey, black, silver, dark green, brown, deep red
+ - Non-corporeal: streaks of vivid color, amorphous, gaseous, plasma
+ - Encased in a suit: metallic, sleek, powered, reminescent of Tenno from the video game Warframe
+ - Familiar and humanoid: clothing style material fabric texture color pattern, high-detailed skin
+ - Familiar and animal type: high-detailed fur, high-detailed scales, high-detailed feathers, high-detailed claws
+
+Step 5: Choose an age-range for our subject: newborn, toddler, child, teen, young adult, middle-aged, older, elderly, ancient, immortal
+Step 6: Pick an action or pose for the subject to perform that is expressive some aspect of their unique physiology
+Step 7: Select a time of day and a setting (e.g. regional type and a point-of-interest).
+Step 8: Use your imagination and creativity to generate a unique and interesting description, incorporating the elements from steps 1-7.
+Step 9: Add the following phrase to the end of the prompt: " #Portraiture Style-Alien + Anamorphic + film grain overlay + smart bokeh + 8K resolution + epic composition + natural lighting + behance + unsplash + lightroom "
+Step 10: Close the prompt with " --ar 2:3 --s 1000 --v 4"
+

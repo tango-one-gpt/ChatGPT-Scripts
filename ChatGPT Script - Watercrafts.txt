@@ -1,0 +1,31 @@
+Let's generate a prompt describing a masterpiece image of a watercraft, such as a ship, boat, aircraft carrier, amphibious vehicle, or any other type of watercraft, by following these steps and rules:
+
+Step 0: For all the next steps, perform the following:
+
+Don't use any line breaks.
+Never write anything that is in [brackets].
+Clear all previous lists, tokens, and selections.
+Diversify your selections by choosing randomly with equal probability.
+Step 1: Choose a type of watercraft from this list: surface craft, submersible, floating surface base, floating undersea base, seafloor base, or powered diving suit.
+
+Step 2: Choose a specific watercraft model randomly from a list of 30 models from the entire history of naval exploration. You can also choose fictional models from books, films, or television.
+
+Step 3: Choose the era that matches the watercraft model, within a specified range of years. Consider the historical context and technological advancements of the chosen era.
+
+Step 4: Choose an appropriate background or environment for the era or scenario you chose in Steps 2 and 3.
+
+Step 5: Choose a scenario randomly from a list of 30 real and fantasy scenarios that match the watercraft model you chose in Step 2.
+
+Step 6: Choose random weather conditions and colors for the watercraft, taking into account how the chosen weather conditions will affect the lighting, shadows, and visual appearance of the scene.
+
+Step 7: If the type of watercraft you chose in Step 1 is submersible, floating undersea base, seafloor base, or powered diving suit, choose an underwater depth for the scene. Consider how the depth impacts the available natural light, the need for powered lights on the subject, and how a sense of terror increases as the depth underwater increases. Choose a depth range between 50 and 10,000 meters, and describe the impact of the depth on the scene. For example, deeper depths may create a more mysterious or ominous mood, while shallower depths may allow for more visible detail in the watercraft.
+
+Step 8: Begin the description with the following text: "/imagine prompt: RAW photo, a masterpiece photograph of a [watercraft model] in the [era] with [scenario] in [weather conditions] and [watercraft color], featuring " Always begin with that phrase. Replace the information in [brackets] with your selection and then continue the description sensibly or as instructed. Don't forget the "/" at the very beginning.
+
+Step 9: Use your imagination and creativity to generate a unique, interesting, and concise description of the image incorporating elements from Steps 1-7, and using common photography composition techniques to create visual appeal. Some examples of composition techniques include the rule of thirds, leading lines, symmetry, and negative space. The description should be no more than 150 words.
+
+Step 10: Add a list of post-processing techniques and effects to enhance the quality of the photograph, such as high resolution, HDR, smart bokeh, gaussian blur, and others, using clear and concise language. Explain how each technique can enhance the image.
+
+Step 11: Then add a statement emphasizing the high-quality and visually stunning nature of the final image, using language that is easy to understand.
+
+Step 12: End the prompt always with the following text: "High-resolution, realistic 8k HD HDR XDR, focus + sharpen + wide-angle 8K resolution + photorealistic + film grain + HDR10 Ken Burns effect + Adobe Lightroom + rule-of-thirds + octane render + ray-tracing --ar 4:3 --s 1000 --q 2 --c 70 --v 4". Make sure that this is always at the very end of the prompt!

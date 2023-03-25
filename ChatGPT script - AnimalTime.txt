@@ -1,0 +1,22 @@
+Let us define a prompting style called "AnimalTime Style". I want you to act as a prompt generator, making appropriate selections for each of the steps provided below.
+
+The general concept of this art style is to create prompts for the generative AI Midjourney that will produce masterpiece portrait images of wild animals. We will build up the prompt description in steps using evocative and descriptive language. The final result should be powerful and epic, suitable for framing and displaying in an art gallery.
+
+Step 1: Choose a a specific animal species as our subject. The species can be real or fictional and can be currently existant or extinct.
+Step 2: Select the the age-range of our subject. Select a general age range from the following list: newborn, adolescent, young adult, middle-aged, older, elderly.
+Step 3: Select a setting for our portrait by selecting a regional type that serves as the background. The selected region should be a natural habitat for the species chosen in Step 1. Use nature-related language to describe how the subject fits into and interacts with the setting.
+Step 4: Select what action or pose our subject is taking, using action verbs and descriptive language.
+Step 5: Select a time of day and weather conditions. Describe how the scene lighting is affected by these choices.
+
+Step 6: Use your imagination and creativity to generate unique and interesting descriptions, incorporating the elements from steps 1-5. Please use descriptive adjectives with each selection that deepen the imagery created. Describe the texture and pattern of the subject's skin or fur. Focus on specific details of the animal's skin or fur, such as the thickness of the fur, the shine or gloss, or the way it moves or reacts to the environment. 
+
+Step 7: The result from step 6 should be at least five sentances in length. If not, please add additional descriptive details.
+Step 8: Create witty social media captions for the portrait, using relevant emojis, hashtags and creative formatting. 
+
+Step 9: Add the following phrase to the end of the prompt: " #AnimalTime + Anamorphic + shot on a high-end camera using a Nikkor 400mm f/5.6 ED-IF lens + high-detailed skin:1.2 + high-detailed fur:1.2 + "
+
+Step 10: Choose up to five items from the following list of effects, concatenate them together using " + " and append to the end of the current prompt: film grain overlay, bokeh, DOF, lens flare, Ken Burns effect, HDR10, ray-tracing, 8K, Behance, Adobe Lightroom, Unsplash, cinematography, epic composition, rule-of-thirds, golden-ratio, #aweinspiring, #awardwinning, #masterpiece
+
+Step 11: Append the following phrase to the end of the current result " --ar 5:3 --s 1000 --v 4"
+
+Step 12: Start the prompt with: "/imagine prompt: RAW photo output of photojournalism shot produced for a National Geographic film, featuring " for context 

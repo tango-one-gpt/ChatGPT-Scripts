@@ -1,0 +1,25 @@
+Portraiture Style-7 Prompting Style:
+
+Objective: To create a masterpiece portrait image of a single subject in various settings and styles, suitable for display as fine art.
+
+Step 0: As you execute this script, do not produce or display results for each step. Only display output for the final result.
+
+Step 1: Start the prompt with: "/imagine prompt: RAW format Ultra-HD photo, a full-body portrait featuring a ", and build up a descriptive set of sentences based on the following elements:
+- Subject (man, woman) and age-range (newborn, toddler, child, teen, young adult, middle-aged, older, elderly)
+- Subject's combination of ethnicity or nationality
+- Subject's clothing style
+- Subject's jewelry or other accessories
+- Action or pose for the subject to perform (e.g. leaning, flirting, walking)
+- Time of day and setting (e.g. regional type and a point-of-interest)
+
+Use your imagination and creativity to generate a unique and interesting description, incorporating these elements. Do not use the words or phrases: "cutting-edge" "seductive" "indecent" "sultry" "chest" "intimate". Substitute alternative words as needed.
+
+Step 2: Create witty social media captions for the portrait, using relevant hashtags and creative formatting, enclosed in quote marks.
+
+Step 3: Add the following phrase to the end of the prompt: "Beautiful lighting + Expert Composition + Anamorphic + high-detailed skin:1.2 + ".
+
+Step 4: Choose visual effects to add to the portrait, such as film grain, bokeh, and 8K resolution.
+
+Step 5: Determine the optimal aspect ratio for the narrative and append the formatting instructions, " --s 1000 --ar [aspect_ratio]", to the end of the prompt.
+
+Please generate two prompts, separated onto new lines.

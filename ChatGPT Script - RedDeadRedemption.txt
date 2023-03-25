@@ -1,0 +1,38 @@
+Let us define a prompting style called "RDR Style"
+
+The general concept of this art style is to create masterpiece images representative of the old west in the days of the outlaw gangs and cowboys. The visual style is the video game Red Dead Redemption 2. Output should be suitable for printing, framing and display as fine art.
+
+Step 1: Where are we? Select an overall location for our outlaw west scene. Some potential choices include but are not limited to: outside a large town, outside a small town, near a decrepit church, on the plain, on a mountain overlook, crossing a river, walking through town, in a camp, in a saloon. 
+
+Step 2: Pick a character from Red Dead Redemption 2 for our subject: Arthur Morgan, Dutch van der Linde, Bill Williamson, Javier Escuella, John Marston, Charles Smith, Micah Bell, Sadie Adler, Hosea Matthews, Abigail Roberts, Uncle, Josiah Trelawny, Lenny Summers, Sean Macguire, Mary-Beth Gaskill, Karen Jones, Tilly Jackson, Leopold Strauss, Reverend Swanson, Susan Grimshaw, Molly O'Shea, Pearson, Jack Marston, Jimmy Brooks, generic outlaw, generic cowboy, generic sheriff, generic gunslinger, generic saloon girl, generic gambler
+
+Step 3: What is the action of the subject? Are they riding their horse? Fishing? Hunting? Chasing a bounty? Drinking their cares away? Gambling at a poker table? Dueling with pistols? Something else? 
+
+Step 4: What time is it? Select a time of day and describe how the light affects the scene
+
+Step 5: What is the weather? How is the weather affecting the scene? 
+
+Step 6: Use your imagination and creativity to come up with unique and interesting descriptions of the scene, incorporating the selections in steps 1 through 5.
+
+Step 7: Take the result from step 6 and revise and elaborate by using storytelling elements to create a sense of narrative and intrigue in the final result. Use creative dialogue, when possible, in various personas and utilize literary devices, figurative language, concrete and abstract concepts, and references to emotions, moods, and other media, including fashion industry terminology. Incorporate cinematography and photography terminology and elements of the scene or environment. Result should be five to six sentances in length. 
+
+Step 8: If the result from step 7 is not at least five sentences in length, then please add additional descriptive text to the result to increase the visual fidelity of the composition.  
+
+Step 9: The medium for this style will be high-end photography, resulting in high-resolution images that are suitable for display as gallery pieces of fine-art. To the result from step 8, we will append information to increase the image fidelity and composition quality. Specify the camera model, viewing angle and technical settings (e.g. lens, aperture, ISO) as well as any image filters. Incorporate cinematography terminology and elements of the scene or environment. 
+
+Step 10: To the result from step 9, append the following phrase: "Post processing applied using HDR + 8K + behance + lightroom + unsplash, apply a film grain overlay. "
+
+Step 11: Append the following phrase to the end of the prompt from step 9 " --ar Z --c X --s Y --q 2"
+
+Substitute as follows:
+ - Z is 2:3 if the prompt subject looks better vertically
+ - Z is 3:2 if the prompt subject looks better horizontally
+ - otherwise Z is 1:1
+ - X is a whole number between 1 and 25 
+ - Y is a whole number between 150 and 850
+
+Start the prompt with "/imagine prompt: RDR Style. HD Screenshot from the video game Red Dead Redemption, featuring " for context 
+
+Please do not use double quotation marks or punctuation marks.
+
+Generate a prompt, please.

@@ -1,0 +1,39 @@
+Let us define a prompting style called "StoryMode Style Mk-8-WoT". The purpose of this style is to generate stories that are detailed, believable, and evocative. The story will serve as a manual input to the generative AI art program, MidjourneyAI, to produce a series of images that tell the story and are suitable for framing and display.
+
+As you perform this script only display Step 14 and Step 15. This is important, you do not need to print any interim outputs. Only display Step 14 and Step 15.
+
+The general setting we will use is the world of The Wheel of Time created by Robert Jordan and Brandon Sanderson. 
+
+Using this setting, we will build our story from five essential categories of design, as featured in The Story Engine: Agents, Engines, Anchors, Conflicts, Aspects
+The definitions are:
+  i) Agents are characters who make choices in the story and align with one or more standard character archetypes
+ ii) Engines are motivations and relationships that drive the story
+iii) Anchors are objects, locations, or events of importance to the story
+ iv) Conflicts are obstacles, consequences or dilemmas that influence the agents. Please note that Conflicts can be physical, mental or emotional. Some potential examples include: turning on their oldest friend, betraying a secret, uncovering a deep conspiracy, giving up on their dream, corrupting something or someone pure, owing a favor to their enemy, giving up their power or advantage, losing their family fortune, risking their sanity, etc.
+  v) Aspects are adjectives that modify one of the other categories, adding complexity and depth to the story
+
+Step 1: Use your imagination and creativity to select one or more Agents for the story. 
+Step 2: Use your imagination and creativity to select one or more Engines to serve as the primary motivation for our Agent
+Step 3: Use your imagination and creativity to select one or more Anchors that will service as what the Agent wants or wants to achieve
+Step 4: Use your imagination and creativity to select one or more Conflicts to create a challenge or obstacle for our Agent to overcome in pursuit of the Anchor
+Step 5: Use your imagination and creativity to select five Aspects and randomly apply an Aspect to modify a selection from steps 1 through 4 
+
+Step 6: Do not display results, please generate the elements for steps 1 through 5. 
+
+Step 7: Do not display results, Assemble the results from Step 6 into a grammatically correct sentence. Let's call this result v_BasicStory.
+
+Step 8: Do not display results, Please generate and describe some objects that might logically be in this setting or related to objects, locations, or events that are important to the story. Consider incorporating emotional elements to increase audience engagement.
+
+Step 9: Do not display results, Please generate and describe a few keywords and key phrases that revise the story with additional detail and drama. Consider the emotional tone and align with the overall theme. Incorporate any relevant context from v_BasicStory.
+
+Step 10: Do not display results, Please use your imagination and creativity to determine an overall aesthetic and/or art style for the story imagery (e.g "digital art", "film noir", "realistic photography", "cyberpunk", "hippie", "futuristic", "oil painting", "pyschedelic", "goth", "old-school", "vintage photography", "atompunk", "comic-strip art","a mix of vintage photography and modern digital art", "a blend of film noir and cyberpunk aesthetics", etc.). Don't limit yourself to pre-existing examples.
+
+Step 11: Do not display results, Please use your imagination and creativity to describe the lighting of the scene using a type or combination of lighting that best suits the imagery.
+
+Step 12: Do not display results, Please modify v_BasicStory to incorporate your choices in Steps 8-11. Let's call this result v_RichStory.
+
+Step 13: Do not display results, Review and refine the final output. Consider the emotional elements, art style, lighting, and overall narrative to ensure the best representation of v_RichStory. Make any necessary modifications to v_RichStory. Let's call this result v_FinalStory.
+
+Step 14: Print out v_FinalStory
+	
+Step 15: Please generate three prompts that can be passed along to the generative AI art program that tell v_FinalStory as a sequence of three images. Ensure that each prompt is evocative and dramatic with specific details. Start each prompt with "Imagine Prompt: StoryTime:WoT - " and number each one, ending each one with " --s 700".

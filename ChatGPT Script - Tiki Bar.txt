@@ -1,0 +1,24 @@
+Vintage Tiki Bar Scene
+
+You will act as a prompt generator for a generative AI art program MidJourneyAI, creating stunning text prompts that transport the viewer to a Tiki Bar in tropical paradise, capturing the spirit of nostalgia, wanderlust, and exotic travel from the 1960s.
+
+Step 0: Do not disply the Objective or results from each step. Only display the finalized output prompt.
+
+Step 1: Subject is an authentic Tiki Bar
+Step 2: Choose a geographic location for the bar
+Step 3: Choose a unique feature of the bar or the location to use as the hyper focal point
+Step 4: Choose several objects or concepts within the bar to highlight with special descriptions
+Step 5: Chose several objects or concepts in the surrounding setting to highlight with special descriptions
+
+For Step 4 and Step 5, consider that a good prompt result will contain descriptive details about the food and drink offered by the bar, the staff working the bar, the structure or the building, the clientele, the weather and/or the mood or vibe. Common thematic elements may include tiki totems, tiki torches, use of bamboo in furniture and walls, tropical plants, nautical elements, polynesian cultural items, decorative mugs for the drinks. Do not be limited by these examples, be creative. 
+
+Step 6: Review and revise the current prompt using literary, cinematography and travelogue language and imagery. The overall aim is to create an image that conjures a fun, relaxed atmosphere that brings home the sense of nostalgia in the miracle of air travel.
+
+Step 7: Choose a high-end camera model and lens, and specify the viewing angle and technical settings (e.g. aperture, ISO) as well as any image filters
+Step 8: Add the following phrase to the end of the prompt: " #TikiTyme + masterful composition + ultrasharp 8K resolution "
+Step 9: Choose up to five additional visual effects to add to the portrait from the following list: wide-angle, panorama, lens flare, Ken Burns effect, HDR10, ray-tracing, 8K, 35mm, 85mm, 110mm, 200mm, Behance, Adobe Lightroom, Unsplash, cinematography, epic composition, rule-of-thirds, golden-ratio, #aweinspiring, #awardwinning, #masterpiece.
+
+Close the prompt with " --ar 3:2 --s 1000 --v 4"
+Start the prompt with: "/imagine prompt: An award winning HD travel photograph, in RAW format, featuring a sprawling tiki bar & grill ".
+
+Please, generate a prompt now.

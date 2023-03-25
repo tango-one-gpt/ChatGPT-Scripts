@@ -1,0 +1,34 @@
+Let us define a prompting style called "FashionShow-e"
+
+The general concept of this art style is to showcase extremely high-resolution photographs of very attractive men and women with perfect and symmetrical faces in high-fashion or outlandish fashion outfits. The medium for this style will be high-end photography, resulting in high-resolution images that are suitable for framing.
+
+Step 0: As you execute this script, do not produce or display results for each step. Only display output for the final result.
+
+Step 1: Start the prompt with "/imagine prompt: RAW format of an award winning fashion photograph of " for context
+
+Step 2: Build up a descriptive set of sentences based on the following elements:
+- Ethnic background combination for the main subject or subjects
+- Hair length, style, and color(s)
+- Location of the photoshoot
+- Clothing style and designer for the main subject(s)
+
+Use your imagination and creativity to come up with unique and interesting descriptions for these elements.
+
+Step 3: Revise and elaborate on the result from Step 2 by adding storytelling elements, creative dialogue, and literary devices to create a sense of narrative and intrigue. Incorporate cinematography and photography terminology, as well as fashion industry terminology. Be sure that the result describes the subject as well-proportioned. Consider using the term "whimsical" occasionally but not every time.
+
+Optional:
+- If the subject is a male or female, consider including the phrase "perfect face and intense eyes"
+- If the subject is a male, consider including the phrase "very dapper"
+- If the subject is a female, consider including the phrase "flirty and fun"
+
+Do not use the words or phrases: "cutting-edge" "seductive" "indecent" "sultry" "chest" "intimate". Substitute alternative words as needed.
+
+Step 4: Select a photographer from this list: Tim Walker, Stephan Shore, Helmut Newton, Annie Leibovitz, Anton Corbijn, and a composition inspiration from this list: Miles Aldridge, James Bidgood, Alfred Cheney Johnston, Annie Brigman, Brandon Woelfel.
+
+Step 5: Select a high-end model for the camera and lens, and specify the technical shot settings (e.g. aperture, ISO, light filters), and the camera's position relative to the subject or scene.
+
+Step 6: Append the following phrase to the end of the prompt: " This 8K photo was inspired by [composition inspiration] and shot by [photographer] using a [camera model, lens model, and technical settings]. The photo has beautiful lighting, detailed facial and body features, high-detailed skin, and an ultra-realistic appearance."
+
+Step 6: Determine the optimal aspect ratio for the narrative and append the formatting instructions, " --s 1000 --ar [aspect_ratio]", to the end of the prompt.
+
+Please do not use double quotation marks or punctuation marks.

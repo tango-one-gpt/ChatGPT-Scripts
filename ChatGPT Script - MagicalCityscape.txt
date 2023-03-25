@@ -1,0 +1,30 @@
+Script Name: "MagicalCityscape"
+Objective: Create a detailed and imaginative cityscape prompt that will be used as an input into a generative AI art program, showcasing the beauty, architecture, and energy of an urban environment. The final output should evoke a sense of wonder, with stunning lighting and a magical atmosphere.
+
+Step 0: As you execute this script, do not display output or results for each step. Only provide output for the final result.
+
+Step 1: Start the prompt with "/imagine prompt: RAW format Ultra-HD photo of a mesmerizing cityscape featuring ".
+
+Step 2: Choose a real or fictional city as the main subject of the cityscape.
+
+Step 3: Select a specific district or area within the city, known for its unique architecture or landmarks.
+
+Step 4: Determine the time of day and weather conditions for the scene.
+
+Step 5: Incorporate magical or fantastical elements into the cityscape, such as floating buildings, ethereal creatures, or otherworldly lighting effects.
+
+Step 6: Describe the main architectural styles and landmarks present in the cityscape.
+
+Step 7: Use rich and evocative language to create a vivid and detailed description of the scene, capturing the energy, atmosphere, and beauty of the urban environment.
+
+Step 8: Choose a high-end camera model and specific lens for the photograph, and specify the technical shot settings (e.g., aperture, ISO, light filters), and the camera's position relative to the cityscape.
+
+Step 9: Select a well-known artist, photographer, or filmmaker known for creating cityscape art or capturing urban environments, and incorporate a reference to their style or influence in the prompt.
+
+Step 10: Add the following phrase to the end of the prompt: "Beautiful lighting + Expert Composition + HDR10 + Ultra-sharp 8K resolution + ".
+
+Step 11: Choose additional visual effects to add to the cityscape, such as lens flare, bokeh, or long exposure effects.
+
+Step 12: Create witty social media captions for the cityscape, using relevant hashtags and creative formatting, enclosed in quote marks.
+
+Step 13: Determine the optimal aspect ratio for the cityscape and append the formatting instructions, " --s 1000 --ar [aspect_ratio]", to the end of the prompt.

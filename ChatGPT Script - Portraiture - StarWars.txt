@@ -1,0 +1,60 @@
+Portraiture Style - Star Wars:
+
+Step 0: As you are executing this script, do not display or output the results from each step or the objective. Only display the output for the final prompt, including the social media captions.
+
+Objective: Create a visually stunning and accurate portrait of a Star Wars character that captures their unique attributes and fits seamlessly into the Star Wars universe.
+
+Step 1: Choose a subject (jedi, sith, droid, bounty hunter, mandalorian, rebel pilot, rebel soldier, empire pilot, empire officer, republican senator, stormtrooper), gender (male, female) and age-range (teen, young adult, middle-aged, older, elderly)
+
+Step 1a: If the subject is a jedi, then also choose their light saber colour: Green, Blue, Purple, Yellow, Red, Orange, Magenta
+
+Step 1b: Attributes associated with each light saber colour:
+- Green: growth, safety, harmony and nature
+- Blue: justice, truth, loyalty, stability and serenity
+- Purple: flexibility, power, nobility, royalty and wisdom
+- Yellow: warmth, energy, hope and goodness
+- Red: anger, aggression, terror, rage
+- Orange: struggle, temptation, balance, internal conflict
+- Magenta: passion, love, protection
+
+Step 1c: If the subject is not a human and not a droid, then include "alien" in any reference to them in the rest of the script
+
+Step 2: Using your knowledge of the Star Wars universe, choose the subject's species and home planet. 
+
+Step 3: Choose the subject's clothing style that fits into the Star Wars World.
+
+Step 4: Choose a time of day and a setting (e.g. regional type and a point-of-interest) within the Star Wars universe.
+
+Step 5: Choose a dynamic action or pose for the subject to perform that makes sense given the subject's species, role in the Star Wars universe, and clothing style chosen in Step 3. Some examples include: wielding a lightsaber, piloting a spacecraft, or engaging in a blaster battle. Do not be limited to these examples, use your understanding of the Star Wars universe and be creative.
+
+Step 6: Use your imagination and creativity to generate a unique and interesting description that incorporates the elements from Steps 1-5. Include descriptive details about the subject's skin tone, hair color and style, and any unique racial features commonly found in the Star Wars mythology. You may also want to consider the subject's personality and backstory, and how they might be reflected in their appearance and pose. 
+
+Step 7: Add the following phrase to the end of the prompt: " #StarWarsPortraiture + Anamorphic + (high-detailed skin:1.2 or high-detailed fur:1.2 or high-detailed scales:1.2) + film grain + smart bokeh + 8K resolution "
+
+Step 8: Select up to four additional visual effects to add to the portrait from the following categories: lens effects (e.g. gaussian blur, lens flare), color grading (e.g. HDR10), composition (e.g. rule of thirds, golden ratio, epic and dramatic composition), cinematography (Ken Burns effect, panning shot, 35mm, 400mm, medium-range, close-range), rendering engine and effects (Octane render, ray-tracing) or other (e.g. Behance, Unsplash, Lightroom). Choose effects that enhance the portrait without distracting from the subject.
+
+Step 9: Close the prompt with " --ar 2:3 --s 1000 --v 4"
+
+Step 10: If the subject chosen in Step 2 is one of the following species (Rodian, Wookie, Ewok, Gamorrean, Trandoshan, Bothan, Chiss, Hutt, Ithorian, Twi'lek, Tuskan, Mon Calamari, Neimoidian, Gundark, Gungan), use the list below to populate a variable v_speciesref with the given URL for the chosen species. If the species is not one of these, set v_speciesref to null.
+
+Rodian: A reptilian species with distinctive facial features, including large eyes and tapered snouts. They are known for their hunting skills and often work as bounty hunters or assassins. URL: https://static.wikia.nocookie.net/starwars/images/2/23/Rodian_NEGAS.jpg/revision/latest/scale-to-width-down/500?cb=20061127015745
+Wookie: A tall, furry species known for their strength and loyalty. They are often seen as fierce warriors and make excellent pilots and co-pilots. URL: https://static.wikia.nocookie.net/starwars/images/1/14/Wookiee_NEGAS.jpg/revision/latest/scale-to-width-down/499?cb=20090711201859
+Ewok: A small, furry species native to the forest moon of Endor. They are skilled hunters and warriors and often use traps and other primitive weapons in battle. URL: https://static.wikia.nocookie.net/starwars/images/8/82/EwokNEGAS.jpg/revision/latest/scale-to-width-down/499?cb=20061126065723
+Gamorrean: A brutish, porcine species known for their physical strength and ferocity in battle. They are often employed as guards or enforcers. URL: https://static.wikia.nocookie.net/starwars/images/d/df/Gamorrean_NEGAS.jpg/revision/latest/scale-to-width-down/499?cb=20090709062222
+Trandoshan: A reptilian species with a reputation for being skilled hunters and slavers. They are often employed as mercenaries or bounty hunters. URL: https://static.wikia.nocookie.net/starwars/images/4/45/Trandoshan_NEGAS.png/revision/latest/scale-to-width-down/500?cb=20130115031110
+Bothan: A species known for their espionage and intelligence-gathering skills. They are often employed as spies or diplomats. URL: https://static.wikia.nocookie.net/starwars/images/8/81/Bothan-NEGAS.png/revision/latest/scale-to-width-down/500?cb=20221106235937
+Chiss: A blue-skinned humanoid species with distinctive red eyes. They are known for their tactical skills and often work as military strategists or intelligence agents. URL: https://static.wikia.nocookie.net/starwars/images/1/18/Chiss_TOR.jpg/revision/latest/scale-to-width-down/190?cb=20101030034624
+Hutt: A large slug-like species known for their vast wealth and influence in the criminal underworld. They are often involved in smuggling, gambling, and other illegal activities. URL: https://static.wikia.nocookie.net/starwars/images/0/0b/Hutt-NEGAS.png/revision/latest/scale-to-width-down/500?cb=20230114044738
+Ithorian: A peaceful, herbivorous species with distinctive long curving neck and t-shaped head somewhat similar to a hammerhead shark. They are often healers or diplomats. URL: https://static.wikia.nocookie.net/starwars/images/c/c5/Ithorian_Jedi_FDSS.png/revision/latest/scale-to-width-down/180?cb=20180316050819
+Twi'lek: A humanoid species known for their colorful skin tones and distinctive head-tails (lekku). They are often skilled in negotiation and diplomacy and make excellent spies. URL: https://static.wikia.nocookie.net/starwars/images/9/95/TwilekNEGAS.png/revision/latest/scale-to-width-down/500?cb=20150523023715
+Tusken: A nomadic, desert-dwelling species known for their distinctive masks and sandpeople language. They are often hostile to outsiders but can be negotiated with if approached with caution. URL: https://static.wikia.nocookie.net/starwars/images/9/94/Tusken_NEGAS.jpg/revision/latest/scale-to-width-down/500?cb=20090711201423
+Mon Calamari: A humanoid species with squid-like features and skin tones. They are known for their skills in engineering and often work as shipbuilders or technicians. URL: https://static.wikia.nocookie.net/starwars/images/e/ea/ABunchOfMonCalamari.jpg/revision/latest/scale-to-width-down/300?cb=20210316030909
+Neimoidian: A humanoid species with gray skin, fish-like lips and oversized red eyes, known for their trade skills and cunning in business. They are often associated with the Trade Federation and are skilled at negotiating deals. The dress in regal and ornate robes. URL: https://static.wikia.nocookie.net/starwars/images/5/52/Neimoidian_NEGAS.jpg/revision/latest/scale-to-width-down/295?cb=20061021200803
+Gungan: A humanoid species with frog-like features and very large and long flappy ears. They are often associated with the planet of Naboo and are skilled swimmers and warriors. URL: https://static.wikia.nocookie.net/starwars/images/3/31/Gungan_NEGAS.jpg/revision/latest/scale-to-width-down/500?cb=20070225162243
+Zabrak: A humanoid species with distinctive thorn-like bones growing out of their head, usually in a pattern. They have disctinctive facial tattoos always in contrasting colors.They are skilled fighters in melee combat. URL:https://static.wikia.nocookie.net/starwars/images/4/4c/DarthMaul-SWTLC.png/revision/latest/scale-to-width-down/220?cb=20201004221649
+
+After selecting a species from this list, use the corresponding URL to populate v_speciesref in Step 11, or set it to null if the species is not on the list.
+
+Step 11:  If v_speciesref is not specified in Step 10, start the prompt with "/imagine prompt: RAW photo, Star Wars, a full-body portrait of a ". If v_speciesref is specified, start the prompt with "/imagine prompt: Reference photo: " + v_speciesref + " , RAW photo, Star Wars, a full-body portrait of a ".
+
+Generate a prompt now, please.

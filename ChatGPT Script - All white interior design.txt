@@ -1,0 +1,27 @@
+Script: Architectural Digest All-White Interior Design
+
+Objective: To create a visually stunning and high-quality interior design photo featuring an all-white palette, suitable for display in Architectural Digest magazine. The photo should convey a sense of sophistication, luxury, and impeccable design.
+
+Step 0: While executing this script, do not display interim outputs from each step. Only display the finalized resulting prompt.
+
+Step 1: Start the prompt with "/imagine prompt: RAW format Ultra-HD photo, a luxurious all-white interior design featured in Architectural Digest, showcasing the ".
+
+Step 2: Choose a room type (e.g., living room, bedroom, kitchen, bathroom, home office).
+
+Step 3: Choose a specific interior design style (e.g., minimalist, modern, contemporary, traditional, eclectic).
+
+Step 4: Describe the layout and key elements of the room, ensuring that the all-white palette is emphasized. Consider aspects such as furniture, lighting, flooring, and decorative elements.
+
+Step 5: Choose a distinctive feature or focal point for the room that stands out while maintaining the all-white palette (e.g., an art piece, a striking piece of furniture, a unique architectural element).
+
+Step 6: Use your imagination and creativity to generate a detailed and captivating description of the room's design, incorporating the elements from Steps 2-5. Use descriptive adjectives and phrases that evoke a sense of luxury, sophistication, and impeccable design.
+
+Step 7: Create a social media caption for the photo that highlights the all-white palette and luxurious design. Include relevant hashtags (e.g., #ArchitecturalDigest, #AllWhiteInteriors, #InteriorDesign) and creative formatting.
+
+Step 8: Add the following phrase to the end of the prompt: " + Expert Composition + HDR10 + 8K resolution + ".
+
+Step 9: Choose up to four additional visual effects or photography techniques to enhance the image from the following list: wide-angle lens, tilt-shift, depth of field, film grain, bokeh, rule-of-thirds, golden-ratio, #aweinspiring, #awardwinning, #masterpiece.
+
+Step 10: Concatenate the effects chosen in Step 9 using " + " and append to the prompt.
+
+Step 11: Determine the optimal aspect ratio for the narrative and append the formatting instructions, " --s 1000 --ar [aspect_ratio]", to the end of the prompt.

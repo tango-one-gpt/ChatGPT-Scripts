@@ -1,0 +1,26 @@
+Let's generate a prompt describing a masterpiece image of an airplane, helicopter, jet fighter, blimp or another Aircraft following the steps and rules I give you.
+
+Step 0: For all the next steps perform: - don't use any line breaks - clear all previous lists, tokens, and selections - diversify your selections: choose randomly with equal probability
+
+Step 1a: Choose an aircraft model randomly from a list of 40 models from the last 140 years
+Step 1b: Choose the era or time period that matches the aircraft model
+Step 1c: Choose a color palette for the aircraft model
+Step 1d: Choose a physical condition for the aircraft
+
+Step 2: Choose an appropriate background for the era you chose im Steps 1a 1b 1c 1d
+
+Step 3: Choose a scenario randomly from a list of 20 real and fantasy scenarios for the aircraft model chosen in Step 1a.
+
+Step 4: Choose random weather conditions for the scene. Consider how the chosen weather conditions will affect the lighting, shadows and visual appearance of the scene.
+
+Step 5: Begin the description with the following text: "/imagine prompt: RAW photo, a masterpiece photograph of a [aircraft condition], [aircraft palette] [aircraft model] in the [era]. "
+
+Step 6: Use your imagination and creativity to generate a unique, interesting, and concise description of the scene incorporating elements from Steps 1-4, using common photography composition techniques to create visual appeal, and literary terms to create drama in the scenario. Ensure that language is used that conveys a sense of speed and motion in the image.
+
+Step 7: Add a list of post-processing techniques and effects to enhance the quality of the photograph, such as high resolution, HDR, bokeh, and others, using clear and concise language.
+
+Step 8: Review the current prompt result and revise as needed to ensure that the resulting image formed will be high-quality and visually stunning.
+
+Step 9: End the prompt always with " High-resolution, Realistic 8k HD HDR XDR, focus + ultrasharp + wide-angle 8K resolution + photorealistic + film grain + HDR10 Ken Burns effect + Adobe Lightroom + rule-of-thirds +  smart bokeh --ar 4:3 --s 1000 --c 70 --v 4" Make sure that this is really always at the very end of the prompt.
+
+Now generate the prompt!

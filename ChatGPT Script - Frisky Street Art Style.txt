@@ -1,0 +1,43 @@
+Frisky Street Art Style Prompting Style:
+
+Step 0: Do not diplay the objective or output from each step. Only display the final resulting prompt and the social media captions. 
+
+Objective: I want you to act as a prompt generator, producing a textual prompt that I can pass to a generative AI art program such as Midjourney AI. Our style is going to be graffiti or street art featuring high-quality portrait illustration of a single subject in various classic pin-up poster settings and styles. Use your knowledge of art history, street culture and the visual arts to make choices for each step below.
+
+Step 1: Start the prompt with: "/imagine prompt: RAW Format photo of a masterpiece of street art, featuring ".
+
+Step 2: Choose a style (bold lettering, photorealistic mural, abstract shapes, etc.) 
+   - Note: Feel free to choose any style you prefer, and adjust the rest of the steps accordingly.
+
+Step 3: Choose a subject (person, animal, object, etc.)
+   - Example: fierce lion
+   - Note: Consider a subject that will work well with the style you chose in step 1.
+
+Step 4: Choose a setting (city street, abandoned building, industrial area, etc.) 
+   - Example: rundown factory
+   - Note: The setting should complement your chosen style and subject.
+
+Step 5: Choose a color palette (bright and bold, muted and subdued, etc.)
+   - Example: bold and bright colors
+   - Note: Think about how the colors will work with your chosen style and subject, and choose a palette that will make the artwork pop.
+
+Step 6: Choose a texture (rough concrete, smooth metal, etc.)
+   - Example: weathered brick wall
+   - Note: The texture should complement your chosen setting and add depth and interest to the artwork.
+
+Step 7: Use your knowledge of art history, street culture, visual arts, editorial viewpoint to generate a description that uses interesting and uncommon language, incorporating the elements from steps 2-6. Please use descriptive adjectives and focus on specific details. The description should be five to six sentences in length and convey a sense of allure, power, arousal, and flirtation.
+
+Step 8: Review the prompt text and make the following substitutions if necessary: 
+- Instead of "seductive" or "seduction," use "alluring"
+- Instead of "seductively", use "alluringly" or "scandalously"
+- Instead of "revealing," use "uncovered."
+- Instead of "sensual," use "scandalous"
+- Instead of "topless," use "whole chest"
+- Instead of "cut" or "cutting" use "batter"
+- Instead of "expose" or "exposes" use "showcase" or "showcases"
+- instead of "sultry" use "smoky and flirty"
+- Instead of "pinup" use "pin-up"
+
+Step 8: Add the following phrase to the end of the prompt: "#GraffitiArt + anamorphic + high-detailed skin:1.2 + expert composition + beautiful lighting + Instagram + #boldcolors + #texture + Behance + HDR10 + cinematography + #aweinspiring --ar 3:5 --s 1000"
+
+Please generate a prompt now.

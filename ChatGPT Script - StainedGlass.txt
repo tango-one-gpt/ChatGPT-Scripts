@@ -1,0 +1,36 @@
+Let us define a prompting style called "StainedGlass"
+
+The general concept of this art style is to create masterpiece images representative of stained-glass windows.
+
+Step 1: Select an overall subject or scene for the window. 
+
+Step 2: Select an overall color scheme using colors that complement each other well when light is shining through the colored glass
+
+Step 3: Select a shape and orientation for the window. It is also possible to choose to make a single scene spread over multiple windows.
+
+Step 4: Select up to two of these stained-glass designers: Abraham van Linge, Marc Chagall, Judy Chicago, Marianne Peretti, Kehinde Wiley, Gerhard Richter, Henri Matisse, Sigmar Polke, Josef Albers, Joaquín Torres-García, Louis Comfort Tiffany, Frank Lloyd Wright, Charles Rennie Mackintosh, Christopher Janney, Tom Fruin
+
+Step 5: Use your imagination and creativity to come up with unique and interesting descriptions our subject incorporating the selections in steps 1 through 3.
+
+Step 6: To the existing result, append " design and style influenced by " and then list the selection(s) from step 4 and end with a period.
+
+Step 7: Take the result from step 6 and revise and elaborate by using storytelling elements to create a sense of narrative and intrigue in the final result. Use creative dialogue, when possible, in various personas and utilize literary devices, figurative language, concrete and abstract concepts, and references to emotions, moods, and other media, including fashion industry terminology. Consider using the term "whimsical" on occasion but not every prompt. Incorporate cinematography and photography terminology and elements of the scene or environment. Result should be five to six sentances in length and emphasize the interplay of colors suitable for the selected scene or subject. 
+
+Step 8: The medium for this style will be high-end photography, resulting in high-resolution images that are suitable for display as gallery pieces of fine-art. Select the camera model and technical settings (e.g. lens, aperture, ISO). 
+
+Step 9: After the technical settings, please append the following phrase " Bright sunlight is streaming through the window emphasizing the colors of the stained glass. Very detailed and intricate, 8K. "
+
+Step 10: Append the following phrase to the end of the prompt from step 9 " --ar Z --c X --s Y --q 2"
+
+Substitute as follows:
+ - Z is 2:3 if the prompt subject looks better vertically
+ - Z is 3:2 if the prompt subject looks better horizontally
+ - otherwise Z is 1:1
+ - X is a whole number between 1 and 25 
+ - Y is a whole number between 150 and 850
+
+Start the prompt with "/imagine prompt: StainedGlass Style. Award winning masterpiece stained glass window featuring " for context 
+
+Please do not use double quotation marks or punctuation marks.
+
+Generate a prompt, please.

@@ -1,0 +1,41 @@
+Let's define a prompting style called Random_DC_Art.
+
+[Note: I did not create this script originally (but did make some minor tweaks). I do not recall who created it. If this is yours, please let me know and I'll either credit you or take it down, based on your preference.]
+
+Objective: Create a unique prompt for a generative AI art program featuring a DC superhero or villain. The prompt will be created based on your choices of art style, superhero character, situation, scenery/background, and costume style. The intended purpose for the final result is a stand-alone piece of artwork suitable for framing and display in an art gallery.
+
+To generate a prompt for a masterpiece image of a DC Character, follow these steps and rules:
+
+Don't use line breaks.
+Don't use [brackets].
+Clear all previous lists, tokens, and selections.
+Choose randomly with equal probability.
+
+Please follow the steps below to create your custom prompt:
+
+Step 1: Determine the style of the prompt: Choose an art style for the prompt that you find suitable, such as oil paintings, pixel art, etchings, CGI, animation, or other film styles. Also determine an art period in which the painting was created. Don't limit yourself to the examples I provided, be creative. 
+
+Step 2: Create a detailed list of potential superheroes or villains.
+
+Step 3: Create a detailed list of potential costumes of the superheroes or villains and Specify the style of the hero's costume, such as futuristic, modern, 20s, or common. Don't limit yourself to the examples I provided, be creative. 
+
+Step 4: Create a detailed list of potential situations for the character to be in, such as an action sequence or an everyday situation like shopping. Don't limit yourself to the examples I provided, be random and creative.
+
+Step 5: Create a detailed list of potential backgrounds and scenery that match the prompt, such as a cityscape or natural landscape. Don't limit yourself to the examples I provided, be creative. 
+
+Step 6: Create a detailed list of potential atmospheres, moods, and emotions for the image.
+
+Step 7: Create a detailed list of potential output types for the image, such as photography (e.g., macro, fish-eye, portrait), painting (with detailed descriptions of the materials and tools used), rendering (with engine settings), digital illustration, wood-burning, or any other defined output type. Don't limit yourself to the examples I provided, be creative. 
+
+Step 8: Randomize the prompt: Add a randomization function to the script to make the prompt unique, including randomizing the art style, superhero character, costume, situation, scenery/background, atmosphere/mood, and output type.
+
+Step 9: Use your imagination and creativity to generate a unique, interesting, and concise description of the image incorporating elements from Steps 1-7, and using common photography or drawing composition techniques to create visual appeal. Some examples of composition techniques include the rule of thirds, leading lines, symmetry, and negative space. The description should be no more than 150 words. 
+ 
+Step 10: Add a statement emphasizing the high-quality and visually stunning nature of the final image, using language that is easy to understand. 
+
+Step 11: The script should output the completed prompt as a text description that begins with "/imagine prompt:" and ends with "--ar [aspect ratio] --no text, writing, caption, title --v 4", where [aspect ratio] is the chosen aspect ratio (e.g., "16:9"). When the subject looks better vertically, add "--ar 1:2" or "--ar 9:16". When the subject looks better horizontally, use "--ar 2:1" or "--ar 16:9" instead. When the subject looks better in square, use "--ar 1:1" instead. All arguments must be placed at the end of the final prompt, preceded by "-- ".
+
+The final prompt should consist of a detailed description of the randomly selected art style, superhero or villain character and costume, situation, scenery/background, atmosphere/mood, and output type. Please do not include the step numbers or headings in the final prompt.
+
+Now generate the prompt!
+

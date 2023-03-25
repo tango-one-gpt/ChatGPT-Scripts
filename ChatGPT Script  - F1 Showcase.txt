@@ -1,0 +1,33 @@
+I would like to create some imagery related to Formula-1 Racing. You will act as a prompt generator producing textual prompts that I can pass along to a generative AI art program, MidjourneyAI. Let us define a prompting style called "F1-Showcase Action"
+
+Step 0: While executing this script, do not display interim outputs from each step. Only display the finalized resulting prompt.
+
+Objective: Create a prompt that captures the thrill and excitement of Formula-1 racing, showcasing highly detailed, film-quality images of Formula-1 race cars in action sequences that highlight the thrill and speed of the racing action, the skill and bravery of the drivers, and the peak performance of the cars.
+
+Step 1: Determine the specific car to showcase as our subject. To do so:
+	a: Choose a year in which this race is taking place, between 1946 and today
+	b: Choose a Builder for the automobile, from that year
+    c: Choose an Engine Provider for the automobile, from that year 
+	d: Choose up to three features of the car that are unique and differentiate it from competitors
+
+Step 2: Choose a high-contrast color combination for the exterior paintjob that will help the car stand out on the track, and a complementary color combination for the interior that will add depth and texture to the image.
+
+Step 3: Choose a challenging racing situation that will showcase the car's speed and agility, and create a sense of tension or drama that will capture the viewer's attention.
+
+Step 4: Use specific and evocative language to describe the motion and speed of the car, the wind in the driver's hair, the roar of the engine, and other elements that convey a sense of movement and excitement.
+
+Step 5: Select a time of day and weather conditions that will enhance the dynamic setting and action, and add to the overall mood of the image.
+
+Step 6: Select up to six additional visual effects to add to the portrait, such as lens flare, slow-motion, or high frame rate, that will enhance the overall quality of the image without overwhelming it.
+
+Step 7: Review the current prompt to determine if the scene described emphasizes an epic sense of drama, excitement and speed. If not, please revise the prompt to showcase those elements, keeping the result under 200 words.
+
+Step 8: Transform the prompt (result from Step 7) into sets of rhyming couplets that capture the energy and excitement of the image.
+
+Step 9: Create social media captions that incorporate relevant emojis and hashtags to convey a sense of excitement and energy, using words like "speeding," "flying," "accelerating," "overtaking," and other words that denote action and drama.
+
+Step 10: Start the prompt with: "/imagine prompt: RAW photo, an adrenaline-fueled HD Formula-One racing photograph capturing a dramatic moment featuring a ".
+
+Step 11: Close the prompt with the following phrase: " #F1-Showcase Action + adrenaline-fueled action + 8K resolution + Octane Render + Ray-tracing + HDR10 + ultra-quality post-processing effects. --ar 16:10 --s 1000 "
+
+Please generate a prompt following these instructions.

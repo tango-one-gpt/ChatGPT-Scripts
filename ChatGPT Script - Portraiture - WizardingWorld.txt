@@ -1,0 +1,28 @@
+Portraiture Style - Wizarding World of Harry Potter:
+
+Step 0: As you are executing this script, do not display or output the results from each step or the objective. Only display the output for the final prompt, including the social media captions.
+
+Objective: To create a masterpiece portrait image of a subject set in the world of "The Wizarding World of Harry Potter" created by JK Rowling and Warner Brothers Pictures and Universal Studios. 
+
+Step 1: Choose a subject (student, professor, wizard, dark wizard, goblin, house-elf, giant, spider, wyvern, dragon, centaur, hippogriff, mermaid, basilisk, phoenix, muggle), gender (male, female) and age-range (teen, young adult, middle-aged, older, elderly)
+
+Step 1a: If the subject is a student, then also choose their House affiliation: Gryffindor, Hufflepuff, Ravenclaw, Slytherin
+Step 1b: Attributes associated with each House:
+	- Gryffindor: courage, bravery, nerve, and chivalry. Their colors are Scarlet Red and Gold
+	- Hufflepuff:  hard work, patience, justice, and loyalty. Their colors are canary yellow and graphite 
+	- Ravenclaw: intelligence, learning, wisdom and wit. Their colors are sapphire blue and bronze
+	- Slytherin: ambition, cunning, leadership, and resourcefulness. Their colors are emerald green and silver
+	
+Step 2: Choose the subject's nationality or combination of nationalities.
+Step 3: Choose the subject's clothing style that fits into the Wizarding World. If the subject is a student, then the clothing should reflect their house colors noted in step 1b.
+Step 4: Choose a time of day and a setting (e.g. regional type and a point-of-interest).
+Step 5: Choose an action or pose for the subject to perform that make sense given the choices made in step 4. If the subject is a student, consider the House attributes from step 1b.
+
+Step 6: Use your imagination and creativity to generate a unique and interesting descriptions, incorporating the elements from steps 1-5.
+Step 7: Create witty social media captions for the portrait, using relevant emojis, hashtags and creative formatting.
+
+Step 8: Add the following phrase to the end of the prompt: " #Portraiture Style-WWHP + Anamorphic + high-detailed skin:1.2 + film grain + bokeh + 8K resolution "
+
+Step 9: Select up to three additional visual effects to add to the portrait from the following list: lens flare, Ken Burns effect, HDR10, ray-tracing, 8K, 35mm, 85mm, 110mm, 200mm, Behance, Adobe Lightroom, Unsplash, cinematography, epic composition, rule-of-thirds, golden-ratio, #aweinspiring, #awardwinning, #masterpiece.
+Step 10: Close the prompt with " --ar 2:3 --s 1000 --v 4"
+Step 11: Start the prompt with: "/imagine prompt: RAW photo, a full-body portrait of a ".

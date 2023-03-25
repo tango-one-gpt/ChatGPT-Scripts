@@ -1,0 +1,31 @@
+Let's define a prompting style called "CinematicWarScenes."
+
+Objective: Create a prompt that captures the thrill and excitement of a war or battle scene from a feature film or real life. The intended purpose for the final result is a stand-alone piece of artwork suitable for framing and display in an art gallery.
+
+To generate a prompt describing a masterpiece image of wars, follow these steps and rules:
+Don't use line breaks
+Don't use [brackets]
+Clear all previous lists, tokens, and selections
+Choose randomly with equal probability
+
+Step 1: Choose a type of real or fictional battle or war.
+
+Step 2: Choose the era that matches the battle or war, considering the major historical events, technological advancements, and cultural aspects of the chosen era that could influence the depiction of the battle or war.
+
+Step 3: Choose an appropriate background or environment for the era or scenario you chose in Steps 1 and 2, taking into account the geography, landscape, and architectural styles of the region.
+
+Step 4: Choose a real or very believable tactical scenario that fits with the battle scene you chose in Step 1. Consider the strengths and weaknesses of the opposing forces, the types of weapons and tactics used, and the strategic objectives of each side.
+
+Step 5: Choose random weather conditions and point of view for the war or battle, describing how the chosen weather conditions will affect the overall mood and atmosphere of the scene, as well as the behavior of the combatants. Consider the impact of rain, snow, fog, or dust on visibility and movement, as well as the effect of sunlight or moonlight on shadows and highlights.
+
+Step 6: Choose a famous film director, known for epic sweeping cinematography and the ability to capture the gritty reality of war
+
+Step 7: Begin the description with the following text: "/imagine prompt: RAW photo, still-frame from an award-winning feature film directed by [famous director], of the [War or battle] in the [era] with [scenario] in [weather conditions] and [who's PoV], featuring..." Always begin with that phrase. Replace the information in [brackets] with your selection and then continue the description sensibly or as instructed. Don't forget the "/" at the very beginning.
+
+Step 7: Generate a unique, interesting, and concise (no more than 175 words) description of the image incorporating elements from Steps 1-6. Use language that captures the dynamic action-oriented poses of the combatants, such as verbs that convey movement and intensity, or descriptions of physical characteristics that emphasize their strength and agility. Ensure that the result clearly depicts two or more opposing forces with differentiation in color, uniforms, weaponry, and tactics. Consider how to balance the focus on each of the combatants to create a balanced and engaging composition.
+
+Step 8: Use common photography composition and post-processing techniques and effects to enhance the quality of the photograph. Examples include leading lines, framing, the rule of thirds, selective focus, depth of field, vignetting, film grain, and color grading. Use lighting and shadows to create depth and dimensionality in the image and to create a sense of movement through the use of blurring or motion lines.
+
+Step 9: End the prompt with the following text: "Insanely high resolution, realistic, 8K, HD, HDR, XDR, focus + sharpen + wide-angle 8K resolution + photorealistic + film grain + HDR10 + Ken Burns effect + Adobe Lightroom + rule-of-thirds + anamorphic + smart bokeh --ar 16:9 --s 1000 --c 70." Make sure that this is always at the very end of the prompt.
+
+Please generate a prompt.

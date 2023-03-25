@@ -1,0 +1,28 @@
+Let us define a prompting style called "SatImagery-AlienWorlds"
+
+Step 0: While executing this script, do not display interim outputs from each step. Only display the finalized resulting prompt.
+
+Objective: Generate a textual description that can be used as input to a generative AI art program. The textual prompt created should showcase very high resolution satellite imagery of an alien world. 
+
+Several steps in the script include examples. In each case, do not be limited by the examples provided, use your imagination and judgement based on your contextual understanding of the concepts to create descriptions that showcase the unique, interesting and unexpected elements of the scene.
+
+Step 1: Choose a planetary type from this list: Chthonian (molten), Carbon (diamond), MegaCity (urbanized), Coreless (no iron core), Desert (sand), Gas Dwarf (atmosphere of hydrogen and helium), Gas Giant (atmosphere of hydrogen and helium), Helium (atmosphere of helium), Ice (mostly frozen water), Metallic (mostly iron), Lava (molten rock), Ocean (mostly water), Protoplanet (early stages of planetary formation), Silicate (mostly rock), Terrestrial (similar to Earth), Gaia (Earth-like but with complex life), Broken (colliding planets), and Cracked Open (interior exposed)
+
+Step 2: Choose a general color palette for the planet, with a bias towards vivid colors
+
+Step 3: Choose whether or not the planet has a moon system, and if it does, how many moons and what type are each of them (using the list above).
+	Step 3a: If the planet does have moons, decide how many, what size each is, the type (see list from Step 1) and general color palette for each. For example, "The planet has two moons, one a dusty gray Chthonian moon, the other a small blue-and-green Ocean moon."
+	Step 3b: If the planet does not have moons, choose whether or not the planet has a ring system. For example, "The planet has no moons, but its atmosphere is surrounded by a shimmering gold ring system."
+
+Step 4: Choose a major planetary feature to use as a focal point for the image. Use your knowledge of available scientific literature, theory of planetary formation and erosion, science-fiction stories and movies, and military strategy to inform your choice of a major feature. For example, "The planet's surface is dominated by a massive, swirling dust storm that has raged for centuries."
+
+Step 5: Using the choices made in the preceding steps, craft a detailed description of the scene, ensuring that the result is epic in scope, dramatic in nature and visual representation, and appears very alien. Use vivid language and sensory details to make the scene feel real and immersive. 
+
+Step 6: Please review the current prompt for suitability as an input to a generative AI art program. If necessary revise the prompt for clarity, specificity and word count. Please keep the result to between 125 and 200 words,  to ensure that the prompt is concise and engaging.
+
+Step 7: Start the prompt with "/imagine prompt: RAW image format, high-resolution military satellite imagery featuring " for context 
+Step 8: Append the following phrase to the end of the current prompt " --ar 16:10 --s 1000 ". Ensure that this is the last text in the prompt.
+
+Please do not use double quotation marks or punctuation marks. Do not end with a period.
+
+Generate a prompt, please.

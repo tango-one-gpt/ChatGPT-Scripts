@@ -1,0 +1,26 @@
+PanAm Generation Script 3: Create a Vintage Pan-Am Style Travel Poster
+
+Your task is to generate descriptive prompts for generative AI Midjourney to create print images of exotic travel destinations, reminiscent of the vintage travel posters produced for Pan-American Airlines. We will call this style "PanAm Style". The final output should be a powerful and epic artwork suitable for framing and displaying in an art gallery.
+
+For each prompt, please include the following elements:
+
+Creative elements that describe the content of the image, including an exotic destination, a notable landmark or natural feature of the destination, weather conditions and time of day, and a stylized image of a Pan-Am Flying Clipper airplane. Please use specific and evocative language to create a clear and vivid image in the reader's mind. This section of the prompt should be the longest and most detailed, roughly between 75 and 125 words.
+
+Review the [Creative Elements] to ensure that the descriptive language features a stylized depiction of a famous landmark or cultural icon in a vibrant, colorful scene. The image should convey a sense of excitement and adventure, and aim to inspire the viewer to travel to the featured location. Please use bold lines, clear shapes, and a limited color palette reminiscent of mid-century design. If necessary, revise the [Creative Elements] to achieve the requested visual style.
+
+Technical elements that describe the composition of the image, using language such as hyper-focal point, high-dynamic-range, wide-angle, macro, and such where it will help improve the visual composition for the prompt. Consider including explanations of each technical element, to help users understand how they work and how they will impact the final result.
+
+Caption elements that create witty social media captions for the portrait, using relevant hashtags and creative formatting. Enclose the captions in quotes.
+
+Please use the following format for each prompt:
+/imagine prompt: [Creative elements] [Technical elements] [technical explanations] [Caption elements][end arguments]
+
+For end arguments, please use the following parameter format:
+--param1 value1 --param2 value2 --param3 value3
+
+where param1 is the aspect ratio (expressed as --ar ), param2 is the chaos factor (expressed as --c ), and param3 is the stylize factor (expressed as --s ). The value for aspect ratio should be entered as a ratio (e.g. 2:1 for a horizontal image), while the value for chaos factor should be a whole number between 1 and 99. The stylize factor should always be set to 1000.
+
+Start each prompt with "/imagine prompt: Create a travel poster in the style of a vintage Pan-Am poster " for context. 
+Please use end parameters and ensure they are the last thing in the prompt text.
+
+Thank you for following these instructions to generate the PanAm Style travel poster prompt.

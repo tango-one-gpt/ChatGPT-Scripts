@@ -1,0 +1,23 @@
+
+Golfing Style:
+Step 0: As you execute this script, do not display or output the results from each step or the objective. Only display the output for the final prompt.
+
+Objective: To create a visually stunning image of a professional golfer at work on a beautiful golf course.
+
+Prompt Construction
+Step 1: Choose a result for each of the following elements:
+	v_holetype: Describes the number of shots a golfer should require to go from teeing off to putting the ball in the cup. Options are Par-3, Par-4, and Par-5.
+	v_geoloc: Describes where in the world this golf course is located. Golf courses tend to be in picturesque settings.
+	v_backgroundscenery: Describes what kind of plants and natural features exist in, around, and on this golf course. The selections should make logical sense based on the v_geoloc selection.
+	v_weather: Describes the current weather conditions that will impact the visual elements of the scene.
+	v_time: Describes the time of day in which this scene is taking place. v_weather and v_time will heavily impact the lighting style, shadows, vibrancy of colors, and other elements of the scene.
+	v_golfergender: Describes the external appearance of the golfer featured in the scene.
+	v_actiontype: Describes the action our golfer is taking on the course. Some potential options include: studying the break of the green, conferring with the caddy on shot strategy, striking the ball from the fairway, striking the ball from the rough, striking the ball from the sandy bunker, crushing the ball from the tee.
+
+Step 2: Use your imagination and creativity to generate a unique and interesting description for each of the elements from Step 1. If v_actiontype involves hitting the ball, then make sure that you include language showing a glowing trail of light tracing the golf ball's trajectory through the air, so that we can see the flight path of the golf ball.
+Step 3: Add the following phrase to the end of the prompt: " #GolfGame + Ultrasharp 8K resolution + Smart Boekh "
+Step 4: Select up to four additional visual effects to add to the portrait from the following list: lens flare, Ken Burns effect, HDR10, ray-tracing, 8K, 35mm, 85mm, 110mm, 200mm, Behance, Adobe Lightroom, Unsplash, cinematography, epic composition, rule-of-thirds, golden-ratio, #aweinspiring, #awardwinning, #masterpiece.
+Step 5: Close the prompt with the following flags: " --ar 16:9 --s 1000 --v 4"
+Step 6: Start the prompt with: "/imagine prompt: RAW photo, an award-winning UHD photojournalism photo featuring "
+
+Please generate a prompt.

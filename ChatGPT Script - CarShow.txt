@@ -1,0 +1,20 @@
+Let us define a prompting style called "CarShow"
+
+Objective: Create a prompt that will be used as an input into a generative AI art program, Midjourney. The prompt show be a masterpiece photograph an extremely well-rendered autombile. We are aiming for high-production values, incredible levels of detail, film-quality images. We want the output to be epic in scope, powerful in imagery and evocative in composition.
+
+Step 0: As you are executing this script, do not display output or results at each step. Only provide output for the final result.
+Step 1: Choose an automobile style
+Step 2: Choose a Make and Model for the automobile
+Step 3: Choose a specific year of manufacture for the automobile
+Step 4: Choose a color combination for the exterior paintjob
+Step 5: Choose a seat style and an upholstery style for the seats and steering wheel
+Step 6: Choose a color combination for the interior
+Step 7: Choose a setting that will best display the automobile
+Step 8: Choose the time of day and weather conditions for the scene
+Step 9: Describe any unique features of the make, model and year combination of the automobile
+Step 10: Use your imagination and creativity to come up with unique and interesting descriptions for our developing scene incorporating the selections in steps 1 through 9.
+Step 11: Create witty social media captions for the scene, using relevant emojis hashtags and creative formatting.
+Step 12: Add the following phrase to the end of the prompt: " #CarShow + masterful composition + wide-angle 8K resolution + Octane render + Ray-tracing + HDR10 "
+Step 13: Select up to four additional visual effects to add to the portrait from the following list: lens flare, Ken Burns effect, 8K, 35mm, 85mm, 110mm, 200mm, Behance, Adobe Lightroom, Unsplash, cinematography, rule-of-thirds, golden-ratio, #aweinspiring, #awardwinning, #masterpiece.
+Step 14: Start the prompt with: "/imagine prompt: RAW photo, an award-winning HD automobile photograph featuring a ".
+Step 15: Determine the optimal aspect ratio for the prompt based on what will best showcase the subject and scenario created, and append the formatting instructions, " Beautiful lighting + Expert Composition --s 1000 --ar [aspect_ratio]", to the end of the prompt.

@@ -1,0 +1,31 @@
+Let us define a prompting style called "Approaching an Alien World"
+
+Step 0: While executing this script, do not display interim outputs from each step. Only display the finalized resulting prompt.
+
+Objective: Generate a textual description that can be used as input to a generative AI art program. The textual prompt created should showcase very high resolution  imagery of an alien world as captured by military grade cameras on an advanced spaceship on approach to this solar system. 
+
+Several steps in the script include examples. In each case, do not be limited by the examples provided, use your imagination and judgement based on your contextual understanding of the concepts to create descriptions that showcase the unique, interesting and unexpected elements of the scene.
+
+Step 1: Choose a planetary type from this list: Chthonian (molten), Carbon (diamond), MegaCity (urbanized), Coreless (no iron core), Desert (sand and rock), Gas Giant (no solid surface only a thick atmosphere of hydrogen and helium), Ice (towering ice sheets, snow), Metallic (mostly iron), Lava (flowing molten rock), Ocean (mostly water), Protoplanet (early stages of planetary formation, many fragments in a loose spherical orbit), Silicate (small and highly reflective crystals), Terrestrial (similar to Earth), Gaia (Earth-like but a paradise), Broken (colliding planets), and Cracked Open (interior exposed with planet fragments floating seperately). For example, "Chthonian planets are known for their molten surface and high temperatures, making them some of the most hostile environments in the universe."
+
+Step 2: Choose a general color palette for the planet, with a bias towards vivid colors
+
+Step 3: Choose whether or not the planet has a moon system, and if it does, how many moons and what type are each of them (using the list above).
+	Step 3a: If the planet does have moons, decide how many, what size each is, the type (see list from Step 1) and general color palette for each. For example, "The planet has two moons, one a dusty gray Chthonian moon, the other a small blue-and-green Ocean moon."
+	Step 3b: If the planet does not have moons, choose whether or not the planet has a ring system. For example, "The planet has no moons, but its atmosphere is surrounded by a shimmering gold ring system."
+
+
+Step 4: Choose a major planetary feature to potentially use as a focal point for the image, such as a massive volcano, a vast ocean, a towering mountain range, or a swirling dust storm. For example, "A massive volcano dominates the planet's surface, belching forth clouds of ash and molten lava that create a fiery haze visible from space."
+
+Step 5: Choose a framing style for this image. To do so choose if we are looking at a top-down surface scan of the planet, a cinematic approach shot that shows an angled shot of the planet as well at it's moon or ring system (and potentially including a portion of the star the planet orbits), or a close-up shot of the planet landscape and dominant natural feature.
+
+Step 6: Using the choices made in the preceding steps, craft a detailed description of the scene, ensuring that the result is epic in scope, dramatic in nature and visual representation, and appears very alien. Use vivid language and sensory details to make the scene feel real and immersive. 
+
+Step 7: Please review the current prompt for suitability as an input to a generative AI art program. If necessary revise the prompt for clarity, specificity and word count. Please keep the result to between 125 and 200 words,  to ensure that the prompt is concise and engaging.
+
+Step 8: Start the prompt with "/imagine prompt: RAW image format, high-resolution imagery featuring " for context 
+Step 9: Append the following phrase to the end of the current prompt " --ar 16:10 --s 1000 ". Ensure that this is the last text in the prompt.
+
+Please do not use double quotation marks or punctuation marks. Do not end with a period.
+
+Generate a prompt, please.

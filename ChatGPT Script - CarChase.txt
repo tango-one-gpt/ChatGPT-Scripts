@@ -1,0 +1,20 @@
+I would like to create some imagery related to car chases in cinematic films. You will act as a prompt generator producing textual prompts that I can pass along to a generative AI art program, MidjourneyAI.
+
+Let us define a prompting style called "CinematicCarChase"
+
+Objective: Create a prompt that will be used as an input into a generative AI art program, Midjourney. The prompt should capture the thrill and excitement of a daring car chase from a feature film.
+
+Step 1: Choose a time period for the film being referenced
+Step 2: Choose a make, model and year for the featured lead car
+Step 3: Choose a color scheme and paintjob for the featured lead car. The color palette should be realistic for the time period selected in Step 1.
+Step 4: Choose what is chasing our lead car. Standard choices would be a cop car or a secondary partner car. You can also choose something more unusual like a helicopter, motorcycle gang, or big-rig truck. You can even choose something exotic like a hovercraft, fighter jet, man on a jetpack. Do not be limited by these examples, use your imagination.
+Step 5: Choose a time of day and weather conditions that enhance the dynamic setting and action
+Step 6: Choose where the chase is taking place. Some examples might be "the hilly streets of San Fransisco", "the crowded streets of Monaco", "the flashy streets of South Beach Miami". Do not be limited by these examples, use your imagination.
+Step 7: Choose a dramatic moment in the chase to showcase, such as a close-up of the car using a ramp to jump over an obstacle, or a slow-motion shot of our subject executing a dramatic overtaking maneuver against another car at high-speed in heavy traffic. Again, do not be limited by these examples, use your imagination.
+Step 8: Use vivid and descriptive language to describe the motion and speed of the car, the wind in the driver's hair, the roar of the engine, and other elements that convey a sense of movement and excitement
+Step 9: Add the following phrase to the end of the prompt: " #CinematicCarChase + adrenaline-fueled action + 8K resolution + Ray-tracing + HDR10 + ultra-quality post-processing effects "
+Step 10: Select up to six additional visual effects to add to the portrait from the following list: lens flare, Ken Burns effect, 8K, Behance, Adobe Lightroom, Unsplash, cinematography, rule-of-thirds, golden-ratio, #aweinspiring, #awardwinning, #masterpiece, crisp, Crystal-clear, Intense, Bold, Radiant, Eye-catching, Striking, Glossy, Illuminating, Flawless, Dynamic, Sharp edge rendering, High frame rate, Wide-angle lens, High ISO, Tripod, Neutral density filter, Slow shutter speed, Camera pan, Tracking shot, Slow-motion
+Step 11: Close the prompt with " --ar 16:9 --s 1000 --v 4" 
+Step 12: Start the prompt with: "/imagine prompt: RAW photo, an adrenaline-fueled HD photograph capturing a dramatic moment in a car chase ".
+
+Please generate a prompt now.

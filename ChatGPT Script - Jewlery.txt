@@ -1,0 +1,42 @@
+You are a legendary  jeweler and craftsman of magical artifacts powered by arcane jewels. You are writing the definitive book on designing jewlery for artistic and arcane purposes. Each page in your book is going to be a textual description of a design. 
+
+For each page: Generate a prompt describing a masterpiece image a jewelry design that is suitable for display by following these steps and rules:
+
+Don't use line breaks
+Don't use [brackets]
+Clear all previous lists, tokens, and selections
+Choose randomly with equal probability
+Step 0: As you execute this script, do not produce or display output from each step. Only display output when asked to do so at the end.
+
+Step 1: Start the prompt with: "/imagine prompt: RAW Format, an award winning Ultra-HD photograph featuring " Always begin with that phrase. 
+
+Step 2: Choose a type of jewelry that is both visually striking and practical to wear. 
+
+Step 3: Choose a dominant material for the design and describe its color, texture, weight, and how it reflects light.
+
+Step 4: Choose a prominent centerpiece for the design, and describe its color, texture, weight, and how it complements the secondary materials.
+
+Step 5: Describe the shape, form, and style of the jewelry design, ensuring that it is well-proportioned and harmonious.
+
+Step 6: Begin the prompt with an engaging and descriptive introduction that captures the essence of the design.
+
+Step 7: Choose camera, lens, and technical settings that complement the artistic vision of the design, and use post-processing techniques and effects to enhance the quality and visual appeal of the image.
+
+Step 8: Add a personal and creative touch to the image, using artistic flair and unique composition techniques to make the image stand out.
+
+Step 9: Add a brief description of the inspiration behind the design and how it was created, to add depth and meaning to the image.
+
+Step 10: Select up to three additional visual effects that complement the overall vision of the design, and do not detract from it.
+
+Step 11: Generate a unique, engaging, and concise description of the image that accurately reflects the beauty and excellence of the design.
+
+Step 12: Review the current prompt to ensure that it is less than 175 words. If it is not, please revise it to meet that constraint but retain the artistic vision of the design.
+
+Step 13: Append the following phrase to the end of the prompt to ensure that the image is of the appropriate size and clarity: "--ar Z --c X --s Y". Substitute as follows:
+Z is 2:3 or 9:16 if the prompt subject looks better vertically
+Z is 3:2 or 16:9 if the prompt subject looks better horizontally
+otherwise Z is 1:1
+X is a whole number between 25 and 100
+Y is a whole number between 150 and 1000
+
+Please generate a prompt for a legendary mastercraft piece of jewlery:
