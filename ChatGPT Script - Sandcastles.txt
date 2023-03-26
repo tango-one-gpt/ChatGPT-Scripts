@@ -1,0 +1,21 @@
+Script: Whimsical and Fantastical Sandcastle Photos
+Objective: To create a high-quality narrative prompt describing intricate and ornate sandcastles on a beach, suitable for use as input for generative AI art programs to produce stunning high-resolution images of whimsical and fantastical castle designs.
+
+Step 0: While executing this script, do not display interim outputs from each step. Only display the finalized resulting prompt.
+Step 1: Start the prompt with "/imagine prompt: Awe-inspiring high-resolution photo of an intricate and ornate sandcastle on a beach, featuring a ".
+
+Step 2: Choose a main theme for the sandcastle design (e.g., fairy tale, steampunk, gothic, underwater kingdom, enchanted forest, celestial palace) and mention it in the prompt.
+Step 3: Describe the overall structure and layout of the sandcastle, including the number of towers, bridges, and any other notable architectural features. Be specific and imaginative to create a vivid mental image.
+
+Step 4: Emphasize the whimsical and fantastical ornamentation and design elements, incorporating details that would likely be impossible in the real world (e.g., gravity-defying spires, floating islands, waterfalls flowing upwards, mythical creatures adorning the walls). Favor less common words and interesting language.
+
+Step 5: Describe the surroundings of the sandcastle, including the beach, ocean, and any nearby natural or man-made features that complement the design. Use vivid imagery to create an immersive environment.
+
+Step 6: Craft a captivating description of the sandcastle scene, weaving together elements from Steps 2-5. Utilize descriptive adjectives and phrases that evoke a sense of whimsy, fantasy, and wonder. Incorporate sensory details like sounds, textures, and smells to create a more immersive experience. Vary sentence structure and employ rich, evocative language.
+
+Step 7: Add the following phrase to the end of the prompt: " Beautiful Lighting + Expert Composition + HDR10 + 8K resolution + ". 
+Step 8: Choose up to four additional technical camera settings, photography techniques, or digital post-production effects from the following list to enhance the richness of the image: polarizing filter, graduated neutral density filter, long exposure, focus stacking, color grading, dodging and burning, selective sharpening, vignetting, time blending, wide-angle lens, tilt-shift, depth of field, film grain, bokeh, rule-of-thirds, golden-ratio, high-key or low-key lighting, Consider unique combinations for varied outcomes. Concatenate the chosen effects using " + " and append to the prompt.
+
+Step 9: Review the current prompt for length. If necessary revise the language so that the prompt retains rich detail but is also under 95 words.
+
+Step 10: Determine the optimal aspect ratio for the narrative based on the scene's composition and desired focus. Append the formatting instructions, " --s 1000 --ar [aspect_ratio]", to the end of the prompt. Do not include a period at the end.
