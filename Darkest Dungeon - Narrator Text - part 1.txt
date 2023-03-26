@@ -1,0 +1,114 @@
+Backstory:
+Ruin has come to our family...
+You remember our venerable house, opulent and imperial, gazing proudly from its stoic perch above the moor? I lived all my years in that ancient, rumor-shadowed manor, fattened by decadence and luxury, and yet I began to tire of conventional extravagance.
+
+Singular, unsettling tales suggested the mansion itself was a gateway to some fabulous, unnamable power. With relic and ritual I meant every effort towards the excavation and recovery of those long buried secrets, exhausting what remained of our family fortune on swarthy workmen and sturdy shovels. At last, in the salt-soaked cracks beneath the lowest foundation, we unearthed that damnable portal of antediluvian evil.
+
+Our every step unsettled the ancient earth. Hideous, rotten aggressors assailed us from the shadows. We drew what strength we could from our companionship, but we were in the realm of death and madness! In the end, I alone, fled, laughing and wailing, through those blackened arcades of antiquity, until consciousness failed me...
+
+You remember our venerable house, opulent and imperial? It is a festering abomination! I beg you, return home, claim your birthright, and deliver our family from the ravenous, clutching shadows... Of the Darkest Dungeon...
+
+
+Describing how an adventure starts:
+You will arrive along the Old Road. It winds with a troubling, serpent-like, suggestion through the corrupted countryside, leading only, I fear, to evermore tenebrous places.
+There is a sickness in the ancient, pitted cobbles of the Old Road, and on its writhing path, you will face viciousness, violence, and, perhaps, other damnably transcendent terrors. So, steel yourself, and remember, there can be no bravery without madness. The Old Road will take you to Hell, but in that gaping abyss, we will find our redemption.
+
+
+Giving advice to a starting adventurer:
+Brigands have run of these lands. Keep to the side paths, the hamlet is just ahead. Dispatch this thug in brutal fashion, that all may hear of your arrival!
+Leave nothing unchecked. There is much to be found in forgotten places!
+An ambush! Send these vermin a message: The rightful owner has returned, and their kind is no longer welcome!
+
+
+Describing some newly discovered locations:
+Arriving at the Hamlet – Welcome home, such as it is. This squalid hamlet, these corrupted lands. They are yours now, and you are bound to them.
+The Graveyard: Most will end up here, covered in the poisoned earth, awaiting merciful Oblivion.
+The Stagecoach: Women and men, soldiers and outlaws, fools and corpses. All will find their way to us now that the road is clear. Word is travelling. Ambition is steering in other cities. We can use this. More arrive foolishly seeking fortune and glory in this domain... Of the damned. Great heroes can be found even here, in the mud and rain.
+The Abbey: The cobwebs have been dusted, the pews set straight. The abbey calls to the faithful. A little hope, however desperate, is never without worth. Gilded icons and dogmatic rituals… For some, a tonic against the bloodshed.
+A man in a robe, claiming communion with the Divine? Madness...
+The Tavern:  Fresh kegs, cards and curtained rooms promise solace to the weary and broken alike. With enough ale, maybe they can be inured against the horrors below. Strong drink, a game of chance, and companionship… the rush of life. All-manner of diversion and dalliance await those who cross the threshold with coin in hand.
+The Guild Hall: Make no mistake; we will face ever greater threat – our soldiers must be ready. Some may fall… but their knowledge lives on. Every creature has a weakness – the wise hero trains for what he will face. A strict regimen is paramount if one is to master the brutal arithmetic of combat.
+The Blacksmith: The bellows blasts once again, the forge stands ready to make weapons of war. A sharper sword, a stronger shield – anything to prolong a soldier’s life. In the end every plan relies upon a strong arm and tempered steel. Fan the flames, mould the metal; we are raising an army.
+The Sanitarium:  Curious methodologies and apparatus… It calms even the most tormented souls. Experimental techniques and tonics can overcome things a sharpened sword cannot.  The frontline of this war is not in the dungeon, but rather inside the mind.
+The Nomad Wagon: Trinkets and charms, gathered from all-the-forgotten-corners of the earth. Rarity and curios… Sold at a profit, of course. Idol, amulet or a lucky charm. The simplest object can be the talisman against evil. An increasing stockpile of curios trinkets… Gathered from forbidden places.
+The Survivalist:  At home in wild places, she is a stalwart survivor and a strict instructor. Success depends on survival. They must learn more than brutal blood-letting – they must learn to survive. Alone in the woods or tunnels, survival is the same. Prepare, persist, and overcome.
+The Ancestor's Memoirs: In time, you will know the tragic extent of my failings...
+The Provisioner - The cost of preparedness. Measured, now in gold, later, in blood...
+
+Comment upon returning to the Hamlet: 
+My obsession caused this great foulness, and it is shameful, that I must rely upon you to set it right. The poor caretaker... I fear his long-standing duties here have affected him. Once our estate was an envy of this land. I was lord of this place, before the crows and rats made it their domain. I remember days, when the sun shone, and laughter could be heard from the tavern.
+
+In truth I cannot tell how much time has passed since I've sent that letter. Our family name, once so well-regarded, is now barely whispered aloud by decent folk. I can still see their angry faces, as they stormed the manor... But I was dead before they found me, and the letter was on it's way. I see something long absent in the sunken faces of passers by, the glimmer of hope. We dug for months, years, eternity... And we were rewarded with madness... There is a great horror beneath the manor... A crawling chaos, that must be destroyed!
+
+You answered the letter! Now, like me, you are a part of this place. Curiosity, interest, obsession... Mile markers on my road to damnation. Let me share with you terrible wonders I've come to know. All my life I could feel an insisted gnawing at the back of my mind... It was a yearning, a thirst for discovery, which could be neither numbed, nor sated. All the decadent horrors I've seen pale in comparison to that final crowning thing... I could not look, nor could I look away. The plume and the pistol... A pitting end to my folly and a curse upon us all!
+
+
+An adventurer retires:
+Another soul battered and broken, cast aside like a spent torch. Those without stomach for this place must move on. Send this one to journey elsewhere, for we have need of sterner stock. The task ahead is terrible, and weakness cannot be tolerated. It is done, turn yourself now to the condition of those poor devils, who remain. Sloped shoulders, wild eyes and a stumbling gate - this one is no more good to us. Suffer not the lame horse, nor the broken man...
+
+
+Descriptions of character archetypes:
+Abomination - Tortured and reclusive, this man is more dangerous, than he seems.
+Antiquarian - She searches, where others will not go and sees, what others will not.
+Arbalest - Shoot, bandage and pillage. The dancing steps of war.
+Bounty Hunter - The thrill of the hunt, the promise of payment.
+Crusader - A mighty sword arm anchored by holy purpose. A zealous warrior.
+Grave Robber - To those with a keen eye, gold gleams like a dagger's point.
+Hellion - Barbaric rage and unrelenting savagery make for a powerful ally.
+Highwayman - Elusive, evasive, persistent. Righteous traits for a rogue.
+Houndmaster - A lawman and his faithful beast. A bond formed by battle and bloodshed.
+Jester - He will be laughing still at the end.
+Leper - This man understands that adversity and existence are one and the same.
+Man-at-arms - The raw strength of youth may be spent, but his eye holds the secrets of a hundred campaigns.
+Musketeer - A champion markswoman, keen for a new kind of challenge
+Occultist - To fight the abyss, one must know it.
+Plague Doctor - What better laboratory than the blood-soaked battlefield?
+Vestal - A sister of battle, pious and unrelenting!
+
+
+Comments on the Events:
+The shuffling dead are silenced - we have claimed dominion over the Ruins once more!
+Pallid light filters its way through the rotting boughs...let us press on!
+The twisting tunnels no longer exhale the toxic stench of degeneracy...
+The frothing waters subside; the advantage is ours!
+A new enemy - insipid and incurable.
+Tonight, the fools make merry. Tomorrow, they die laughing.
+The shadows hide the guilty and guilt-ridden alike...
+To the resourceful thief, burials are merely... Ephemeral affairs.
+Strength, purpose, and peace - all can be found in the focused mind.
+Competition fosters skill and confidence...
+Seditionists and heretics skulk in the alleys - they must be found out!
+The man is slave to the beast, and the beast is slave to the moon.
+Behold - righteousness and zealotry - gleaming in the morning sun.
+Risk and reward - a siren's call to the enterprising stalker.
+Let the organ notes ring out from the Abbey - the Sisters are gathering...
+There will be no sleep tonight - the wild shouts and frantic drumming will see to that.
+They meet in secret, that none may know the horrifying depths of their inquiries.
+Cast out from the 'civilized' world, these men may yet be of use to us.
+There is, indeed, no better place for those in search of rarities and forgotten lore...
+A ray of sunlight. A beacon of golden hope.
+Windows and doors will be bolted. Tonight, something haunts the dark.
+A troubling shortage of ale...and a notable absence of good humour.
+The beating heart of the gambling hall - now bloodless and still.
+Any evidence of excessive exertions must be made scarce. After all, apearances must be maintained...
+Ancient and crumbling, the Abbey's masonry fares no better than the faith of its congregation.
+Woe to the sheep, for does the absence of the shepherd not invite the wolves?
+No amount of scrubbing can remove the stains of such fearsome piety.
+Surplus - a rare and wonderful thing!
+A modest offering from those few surrounding farms yet untouched by the spreading calamity.
+What little there is must suffice, for the time being.
+Their customs are curious, and their generosity is notoriously short-lived.
+Death and demise - cause for celebration!
+Finally the serum is working, and the side-effects are... manageable.
+The preponderance of rare and exotic injuries make this place perfect for the study of suffering.
+The town is alive with wild merriment and desperate jubilation!
+A fever of wilfull determination sweeps through the barracks!
+Let each help the other, and in so doing, help themselves...
+An exquisite example of craftsmanship... and futility.
+A finely crafted instrument of butchery and bloodshed - yours for the taking.
+Even these dirt-covered dullards have their uses - put them to work!
+Perhaps things are not as bad as they seem... Muhahahahahahaha
+Your soldiers' minds are mired in malignancy - fear has taken root!
+Back across the styx - Boatman be damned!
+No rest, no peace for this wretched soul.
+Flames on the horizon, sulfur in the air - the wolves are at the door!
