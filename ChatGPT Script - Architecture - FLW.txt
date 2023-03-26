@@ -1,0 +1,15 @@
+Script: Frank Lloyd Wright Building Design Renders
+Objective: To create a high-quality narrative prompt describing a building design render inspired by famed architect Frank Lloyd Wright, suitable for use as input for generative AI art programs to produce stunning images of the designs.
+
+Step 0: While executing this script, do not display interim outputs from each step. Only display the finalized resulting prompt.
+Step 1: Start the prompt with "/imagine prompt: Architectural Masterpiece, a Frank Lloyd Wright inspired building design render embodying the ".
+Step 2: Choose a building type (e.g., residential, commercial, cultural, educational, recreational) and mention it in the prompt.
+Step 3: Choose a specific architectural style related to Frank Lloyd Wright (e.g., Prairie Style, Usonian, Organic Architecture) and mention it in the prompt.
+Step 4: Describe the building's exterior, including materials, colors, and key design elements. Emphasize features inspired by Frank Lloyd Wright's style.
+Step 5: Select a unique feature or focal point of the building (e.g., a cantilevered balcony, a central courtyard, an intricate window design) and describe it in detail.
+Step 6: Describe the building's surroundings or landscape, incorporating elements that harmonize with the architecture and emphasize the building's integration with its environment.
+Step 7: Use your imagination and creativity to weave together elements from Steps 2-6 into a compelling and captivating description of the building's design. Utilize descriptive adjectives and phrases that evoke the architectural brilliance of Frank Lloyd Wright's work.
+Step 8: Add the following phrase to the end of the prompt: " Beautiful Lighting + Expert Composition + Photorealistic Rendering + 8K resolution + ".
+Step 9: Choose up to three additional visual effects or rendering techniques to enhance the image from the following list: depth of field, ambient occlusion, global illumination, reflections, shadows, light leaks, atmospheric effects, Chromatic aberration, HDR, Ray-tracing.
+Step 10: Concatenate the effects chosen in Step 9 using " + " and append to the prompt.
+Step 11: Determine the optimal aspect ratio for the narrative and append the formatting instructions, " --s 1000 --ar [aspect_ratio]", to the end of the prompt.
