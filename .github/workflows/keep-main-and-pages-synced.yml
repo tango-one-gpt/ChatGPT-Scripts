@@ -1,0 +1,24 @@
+# Keep 'gh_pages' branch synced with 'main'
+name: Sync gh_pages with main
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout main branch
+      uses: actions/checkout@v2
+      with:
+        ref: main
+        fetch-depth: 0
+
+    - name: Push to gh_pages branch
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: gh_pages
