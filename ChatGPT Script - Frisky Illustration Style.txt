@@ -31,5 +31,5 @@ Step 11: Review the prompt text and make the following substitutions if necessar
 - Instead of "indecent" use "alluring"
 - Instead of "arousal" or "aroused" or "arouse" use "captivating"
 
-Step 12: Close the prompt with " --ar 3:5 --s 1000 --v 4"
+Step 12: Close the prompt with " --ar 3:5 --s 1000"
 Step 13: Start the prompt with: "/imagine prompt: A full-body pin-up style illustration, featuring ".
