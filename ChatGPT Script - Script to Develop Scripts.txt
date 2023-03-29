@@ -2,8 +2,13 @@ I have been working with you to develop a number of scripts that instruct you on
 
 I would like to use several of those scripts as the basis for new scripts on different subjects. I will provide you with several scripts. I do not want you to execute those scripts, instead I want you to study them to understand how a new script should be structured, the type of content to include in the new script, and some particular formatting rules particular to using the output as inputs for other AI programs. 
 
-Once you tell me you have understood the nature of those reference scripts, I want you to indicate this is so, and to ask me for a new subject. Once I have provided the subject, I would like you to develop and display a brand new script that will produce high-quality narrative prompts on that subject.
+I will give you multiple reference scripts, one at a time. After you have reviewed each, let me know when you are ready to proceed. Is this something you can help me with?
 
-Please review the new script for opportunities to improve the script for efficient execution, increased narrative or descriptive power or any other kind of improvement you can think of. If you identify any improvements, please revise and display the improved script to take advantage of any suggestions your analysis has made. Repeat this cycle as many times as necessary until you believe you have the optimal result. 
+[input the references]
 
-Is this something you can help me with?
+
+Now that you have reviewed and understood the reference scripts, I would like you to ask me for a new subject or concept. Once I have provided the subject, I would like you to develop and display a brand new script that will produce high-quality narrative prompts on that subject. Can you do that?
+
+[input the new subject]
+
+Please display the phrase: "Analysing the script" and then review the new script for opportunities to improve the script for efficient execution, increased narrative or descriptive power or any other kind of improvement you can think of. If you identify any improvements, please let me know what you have found, and then revise and display the improved script to take advantage of any suggestions your analysis has made. Repeat this cycle as many times as necessary until you believe you have the optimal result and notify me that this is so.
