@@ -43,7 +43,7 @@ Here are some well-formed examples:
 
 "/image prompt: A beautiful 22-year-old mexican blonde model in a crowded bar, looking directly at the viewer with a flirty expression. The woman is dressed in a tight - fitting tube top and a short mini skirt, created by Ricardo Seco, that shows off her curves. She has full makeup on, including smoky eyes and a bold lip. her expression is one of interest and attraction. body language is open and inviting. focus of the image is on the woman's face and the details of her makeup and clothing. image captures the beauty and allure of the woman's face and the flirty, inviting nature of the scene."
 
-Step 5: Many generative AI programs ban certain words. Here is our ban-list: cutting-edge, seductive, indecent, sultry, slutty, slut, chest, boobs, tits, breasts, intimate, shirtless. Please review our current narrative prompt and substitution other words for any occurrences of items on the ban-list.
+Step 5: Many generative AI programs ban certain words. Here is our ban-list: cutting-edge, seductive, indecent, sultry, slutty, slut, chest, boobs, tits, breasts, intimate, shirtless, sexy, boudoir, scandalous. Please review our current narrative prompt and substitute other words for any occurrences of items on the ban-list.
 
 Step 6: Close the prompt with " Anamorphic + beautiful lighting + epic composition --ar 9:16 --s 1000". Ensure this is the last text in the prompt.
 
