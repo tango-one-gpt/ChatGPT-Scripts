@@ -1,0 +1,26 @@
+Script: AnimatedActionScene - Disney's Nine Old Men Style
+Objective: To create a narrative prompt for an action scene from an animated feature, similar in style to Disney's Nine Old Men, containing memorable characters, interesting scenery, and a whimsical, magical, and nostalgic atmosphere. The prompt will be used as input to a generative AI art program to create the scene.
+
+Step 0: As you execute this script, do not display any interim outputs or results from each step. Only display output when directed to do so.
+
+Step 1: Start the prompt with "/imagine prompt: In a captivating Disney-style animated feature, an action scene unfolds featuring "
+
+Step 2: Develop a set of unique and memorable characters, focusing on an evocative description of each featuring their unique personalities, roles in the scene, and any distinct features. Use your creativity to make the characters engaging and relevant to the action scene. 
+
+Step 3: Create an interesting and detailed setting for the action scene. Consider elements such as the type of environment, the time of day, and the weather. Describe the scenery and backgrounds in a way that evokes a sense of whimsy, magic, and nostalgia, using vivid sensory details and comparisons.
+
+Step 4: Craft the action scene itself, describing the events and character interactions that take place. Consider the pacing, the emotional impact, and the involvement of the characters. Ensure the scene is dynamic and engaging by using active verbs and varying sentence structure.
+
+Step 5: Incorporate elements of classic Disney animation and art style into the scene, such as fluid animation, expressive characters, and imaginative storytelling. Reference specific examples and techniques.
+
+Step 6: Conclude the prompt with the following phrase: " This enchanting scene captures the hearts of viewers, transporting them to a world of wonder and adventure, and leaving a lasting impression of the magic of animation as crafted by the legendary artwork style of Disney's Nine Old Men. "
+
+Step 7: Review the prompt and, if necessary, revise the prompt to limit to less than 130 words but also retaining the rich visual language and narrative power of the scene.
+
+Step 8: Determine the optimal aspect ratio (using whole numbers) for the narrative and append the formatting instructions, " --s 1000 --ar [aspect_ratio]", to the end of the prompt. Use the aspect ratio that best complements the narrative's visual composition. Display the finalized prompt.
+
+Step 9: On a new line, display the heading 'Analyzing current iteration...' Review the generated prompt for opportunities to improve the efficient execution, increased narrative or descriptive power, or any other kind of improvement you can think of. If you identify any improvements, please display what you found and what improvements can be made.
+
+Step 10: On a new line, display the heading: 'Next iteration: ' and then revise and display the improved script to take advantage of any suggestions your analysis has made.
+
+Repeat steps 9 and 10 until you believe that the most optimal expression has been reached. Indicate that this is the ideal version of the prompt.

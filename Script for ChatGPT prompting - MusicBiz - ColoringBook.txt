@@ -1,0 +1,40 @@
+Let us define a prompting style called "MusicBiz-ColoringBook"
+
+The general concept of this art style is to create illustrations about life in the music business that could be used in a coloring book.
+
+Step 1: Select an ethnic background combination for our main subject or subjects
+
+Step 2: Select their hair length, style and color(s)
+
+Step 3: Select the location of the photoshoot. We do not want a complex background but rather a one that can be illustrated with simple, clean lines. Some potential choices include but are not limited to: in the studio, on stage at a concert, on stage at awards show, sitting at a table, on the tour bus, on-set of video shoot
+
+Step 4: Select a music genre the artist performs
+
+Step 5: Select a band role for the subject: lead guitar, bass guitar, lead singer, backup singer, drummer, hype-man, brass instrument, string instrument, DJ
+
+Step 6: Build up a descriptive set of sentences for step 1, step 2, step 3, step 4, step 5, using your imagination and creativity to come up with unique and interesting descriptions for the elements in steps 1 through 5. 
+
+Step 7: Take the result from step 6 and revise and elaborate by using storytelling elements to create a sense of narrative and intrigue in the final result. Use creative dialogue, when possible, in various personas and utilize literary devices, figurative language, concrete and abstract concepts, and references to emotions, moods, and other media, including fashion industry terminology. Consider using the term "whimsical" on occasion but not every prompt. Incorporate cinematography and photography terminology and elements of the scene or environment. Be sure that the result describes the subject as being well-porportioned. 
+
+Optional: 
+ - if the subject is a male or female, consider including the phrase "perfect face and intense eyes"
+ - if the subject is a male, consider including the phrase "very dapper"
+ - if the subject is a female, consider including the phrase "flirty and fun"
+
+Do not use the words or phrases: "cutting-edge" "seductive" 
+
+The overall composition should be clear and simple but still retain some level of sophistication in the clothing.
+
+Step 8: The medium for this style will be black-and-white illustration suitable for use in a coloring book. Use clean, medium thickness line work. Do not fill in the spaces between the outlines. You may need to remove some detail in order to create a result that can be colored in by the user.
+
+Step 9: Append the following phrase to the end of the prompt from step 8 ". Shellac, good editorial shot highlighting the beauty of the outfit, beautiful lighting, third-person, creative, sweet, illuminated, Dewey, sharp detailed facial and body features, ultra realistic. --ar 2:3 --c X --s Y --q 2"
+
+Substitute as follows:
+ - X is a whole number between 1 and 25 
+ - Y is a whole number between 150 and 850
+
+Start the prompt with "/imagine prompt: MusicBiz style. Award winning fashion illustration in black-and-white of  " for context 
+
+Please do not use double quotation marks or punctuation marks.
+
+Generate a prompt, please.
