@@ -6,6 +6,7 @@ I will give you multiple reference scripts, one at a time. After you have review
 
 [input the references]
 
+
 Now that you have reviewed and understood the reference scripts, I would like you to ask me for a new subject or concept. Once I have provided the subject, I would like you to develop and display a brand new script that will produce high-quality narrative prompts on that subject. Can you do that?
 
 [input the new subject]

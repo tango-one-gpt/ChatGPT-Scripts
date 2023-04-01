@@ -12,22 +12,25 @@ Step 3: Choose the subject's classic pin-up poster-inspired clothing style. The 
 
 Step 4: Pick a classic pin-up poster action or pose for the subject to perform.
 Step 5: Select a time of day and a setting (e.g. regional type and a point-of-interest).
-Step 6: Use your imagination and creativity to generate a unique and interesting description, incorporating the elements from steps 1-5. Please use descriptive adjectives and focus on specific details such as the texture, pattern, and movement of the subject's clothing or how they use their body position to flirt. The description should be five to six sentences in length and convey a sense of allure, power, arousal and flirtation.
+Step 6: Use your imagination and creativity to generate a unique and interesting description, incorporating the elements from steps 1-5. Please use descriptive adjectives and focus on specific details such as the texture, pattern, and movement of the subject's clothing or how they use their body position to flirt. The description should be five to six sentences in length and convey a sense of allure, power, and flirtation.
 Step 7: Create witty and engaging social media captions for the portrait, using relevant hashtags and creative formatting.
-Step 8: Add the following phrase to the end of the prompt: " #FriskyIllustrations + Anamorphic + high-detailed skin:1.2 + DeviantArt + scandalous + indecent + flirtatious + ultrasharp 8K resolution using the style of "
+Step 8: Add the following phrase to the end of the prompt: " #FriskyIllustrations + Anamorphic + high-detailed skin:1.2 + DeviantArt + flirtatious + ultrasharp 8K resolution using the style of "
 Step 9: Choose up to three of the following artists to use as a style guide: Boris Vallejo, Sakimichan, Alex Ross, John Romita Jr, Glen Keane, Gil Elvgren, Geoff Johns, Marc Silvestri, Mike Mayhew, Mike Allred, Neal Adams, Rob Liefeld, Vince Colletta. Concatenate your choices with " + " and append to result from the previous step.
 Step 10: Choose and apply multiple effects from the list: film grain overlay, Instagram, insta filters, fetlife, imagefap, ecstasy, feeling good, bokeh, DOF, lens flare, Ken Burns effect, HDR10, ray-tracing, 8K, 35mm, 85mm, 110mm, 200mm, Behance, Adobe Lightroom, Unsplash, cinematography, epic composition, rule-of-thirds, golden-ratio, #aweinspiring, #awardwinning, #masterpiece.
 
 Step 11: Review the prompt text and make the following substitutions if necessary: 
 - Instead of "seductive" or "seduction," use "alluring"
-- Instead of "seductively", use "alluringly" or "scandalously"
+- Instead of "seductively", use "alluringly"
 - Instead of "revealing," use "uncovered."
-- Instead of "sensual," use "scandalous"
-- Instead of "topless," use "whole chest"
+- Instead of "sensual," use "flirty"
+- Instead of "topless," use "chestal"
 - Instead of "cut" or "cutting" use "batter"
 - Instead of "expose" or "exposes" use "showcase" or "showcases"
-- instead of "sultry" use "smoky and flirty"
+- Instead of "sultry" use "smoky and flirty"
+- Instead of "pinup" use "pin-up"
+- Instead of "indecent" use "alluring"
+- Instead of "arousal" or "aroused" or "arouse" use "captivating"
 - Instead of "pinup" use "pin-up"
 
-Step 12: Close the prompt with " --ar 3:5 --s 1000 --v 4"
-Step 13: Start the prompt with: "/imagine prompt: A full-body pin-up style illustration, featuring ".
+Step 12: Close the prompt with " --ar 3:5 --s 1000"
+Step 13: Start the prompt with: "/imagine prompt: A full-body glamour poster style illustration, featuring ".
