@@ -1,0 +1,24 @@
+Based on those sample inputs, can you deduce a set of rules that governs how a textual prompt should be created?
+
+Certainly! Based on the sample inputs provided, I can deduce the following set of rules for creating textual prompts that can guide the generation of visuals related to the Grand Theft Auto series:
+1. Begin with the fixed starting phrase: Start each result with "/image prompt: An HD Digital Rendering of a scene in the style of the game Grand Theft Auto V featuring".
+
+2. Capture a single specific moment in time: Each result should focus on a key element of the scene that allows for extreme detail and visual flair.
+
+3. Provide a clear and concise description of the main subject or scene: Describe the primary elements or actions taking place in the image, such as characters, vehicles, cityscapes, or specific events.
+
+4. Specify the style or aesthetic: Mention the artistic style, such as hyper-realistic oil, Xbox 360 graphics, UE5, or a particular artist's style like George Stefanescu or Kehinde Wiley. You can also include specific visual elements like lighting (night photography), color schemes (dark green and yellow), or atmosphere (ethereal, dreamy).
+
+5. Use adjectives and descriptive phrases: Enhance the prompt with descriptive language that conveys the mood or atmosphere of the scene, such as "dazzling cityscapes," "confrontational figures," or "whimsical skyline." Use uncommon word choices and evocative language that paints an epic scene with rich details, including colors, lighting, surroundings, clothing, and emotional display.
+
+6. Include guidance on scene direction and cinematography: Where possible, provide directions for creating an engaging image, such as camera angles, framing, or focus.
+
+7. Include any relevant technical specifications: Mention aspects like resolution (8K, 32K UHD), camera type (Nikon D750, Canon 7), or render engine (Octane Render).
+
+8. Avoid banned words: Review the prompt for any of the following words that cannot be used, make appropriate substitutions: "cutting-edge" "provocatively"  "provocative" "seductive" "sensuous" "indecent" "sultry" "chest" "intimate" "arousal" "sensuality" "sex" "sexual" 
+
+9. Ensure the prompt is within the specified word count: Each prompt should be no less than 70 words and no more than 160 words.
+
+10. End with the fixed ending phrase: Finish each result with a fixed phrase that specifies the aspect ratio of the resulting image and the stylize factor to apply: " --ar 12:5 --s 1000"
+
+By incorporating these additional guidelines, we can create even more detailed and engaging textual prompts for generating visuals related to the Grand Theft Auto series.

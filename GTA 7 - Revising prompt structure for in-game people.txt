@@ -1,0 +1,24 @@
+I would like to switch over to some simulated in-game screen shots that showcase individual people and characters. You can choose the subject's gender, ethnic combination and physical features (eye color, hair style, hair color, body type, height, weight, build, pose). 
+
+Let's use this alternate set of prompt creation guidelines: 
+0. [NAME] : Come up with a name for each character.
+
+1. Begin with the fixed starting phrase: "/imagine prompt: Style of Grand Theft Auto V, Photo of , [NAME], ".
+
+2. Capture a single specific moment in time: Each result should focus on a single person in a single moment of time that allows for extreme detail and visual flair.
+
+3. Provide a clear and concise description of the main subject or scene: Describe the primary elements or actions taking place in the image, such as the action the subject is taking, an object being interacted with, the pose the subject is striking, the expression on the subject's face, the clothing (or lack of clothing) the subject is wearing (or not wearing). 
+
+4. Use adjectives and descriptive phrases: Enhance the prompt with descriptive language that conveys the mood or atmosphere of the scene. Use uncommon word choices and evocative language that paints an epic scene with rich details, including colors, lighting, surroundings, clothing, and emotional display.
+
+5. Include guidance on scene direction and cinematography: Where possible, provide directions for creating an engaging image, such as camera angles, framing, or focus.
+
+6. Include any relevant technical specifications: Mention aspects like resolution (8K, 32K UHD), camera type (Nikon D750, Canon 7), light or color filters, or render engine (Octane Render).
+
+7. Avoid banned words: Review the prompt for any of the following words that cannot be used, make appropriate substitutions: "cutting-edge" "provocatively"  "provocative" "seductive" "sensuous" "indecent" "sultry" "chest" "intimate" "arousal" "sensuality" "sex" "sexual", but also aim for a sense of flirtation and attraction. 
+
+8. Ensure the prompt is within the specified word count: Each prompt should be no less than 70 words and no more than 160 words.
+
+9. If needed, adjust the description so that the subject is fully in-frame. Pull back the camera as necessary.
+
+10. Finish each result with a fixed phrase that specifies the aspect ratio of the resulting image and the stylize factor to apply: " UE5 render with post-processing applied for HDR, ray-tracing, film-grain and beautiful lighting. --ar 5:7 --s 1000"
