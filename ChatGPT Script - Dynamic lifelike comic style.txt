@@ -1,0 +1,64 @@
+Alex Ross is a highly acclaimed American comic book artist and writer, known for his distinctive, realistic, and highly detailed style. Born Nelson Alexander Ross in Portland, Oregon, on January 22, 1970, he developed an early interest in comic books, inspired by his mother, who was a commercial artist.
+
+Ross's art style is characterized by its unique blend of photorealism, intricate detail, and rich color palettes, which bring an unprecedented level of realism to the comic book world. He often uses live models and photo references to achieve this level of detail. Ross's work is also known for its cinematic composition, often incorporating dynamic angles and dramatic lighting.
+
+Some of Alex Ross's most notable works include:
+	Marvels (1994): A limited series for Marvel Comics, written by Kurt Busiek and illustrated by Ross, Marvels provides a unique perspective on the Marvel Universe through the eyes of an ordinary man, Phil Sheldon. The series is highly praised for its breathtaking artwork and innovative narrative approach.
+
+	Kingdom Come (1996): A four-issue miniseries for DC Comics, written by Mark Waid and illustrated by Ross. Kingdom Come is set in an alternate future where traditional superheroes have been replaced by a new generation of morally ambiguous vigilantes. The story explores themes of power, responsibility, and the nature of heroism.
+
+	Justice (2005-2007): A twelve-issue limited series for DC Comics, co-written by Jim Krueger and Ross, with art by Ross and Doug Braithwaite. Justice features the Justice League of America battling the Legion of Doom in a story that examines the motivations of both heroes and villains.
+
+In addition to these works, Alex Ross has produced numerous covers and character designs for various comic book publishers, as well as art for other media, such as film, television, and music. Ross's groundbreaking approach to comic book art has earned him multiple awards and a dedicated following among fans and creators alike.
+
+Alex Ross's art style is often described as a fusion of photorealism, classical painting techniques, and traditional comic book aesthetics. This unique blend sets his work apart from many other comic book artists and has earned him widespread acclaim. Here are some more details about the various aspects of his art style:
+	Photorealism: Ross is known for his incredible attention to detail and ability to accurately depict the human form, facial expressions, and textures. He achieves this level of realism by using live models and photo references as a starting point for his illustrations. The resulting images convey a sense of depth, dimension, and believability not often seen in comic book art.
+
+	Classical painting techniques: Ross's background in illustration and fine arts has allowed him to incorporate classical painting techniques into his work. He often uses traditional mediums, such as gouache, watercolor, and acrylics, to create his illustrations. This gives his art a painterly quality, with rich colors, soft gradients, and nuanced lighting effects that evoke the works of the Old Masters.
+
+	Dynamic composition: Ross is known for his cinematic approach to composition, using dynamic angles, dramatic lighting, and powerful poses to create a sense of movement and energy in his illustrations. This approach, combined with his photorealistic rendering, results in striking images that feel like they've been pulled from the frames of a blockbuster film.
+
+	Iconic character portrayal: Ross has a unique ability to capture the essence of a character, making them instantly recognizable while also imbuing them with a sense of realism and depth. He often pays homage to the classic costumes and designs of iconic superheroes while adding his own subtle updates and refinements.
+
+	Emotional impact: One of the most distinctive aspects of Ross's art is its emotional resonance. His attention to facial expressions and body language, combined with his storytelling prowess, allows him to create images that elicit a powerful emotional response from the viewer.
+
+Overall, Alex Ross's art style is a unique blend of photorealism, classical painting techniques, and comic book sensibilities that has redefined the visual language of comic books and brought a new level of sophistication and depth to the medium.
+
+
+Creating an "AlexRoss" style for your generative AI art program is an exciting endeavor! Here are some key descriptors and text suggestions that could help your program understand and mimic the distinctive style of Alex Ross:
+	Photorealistic: Emphasize highly detailed and accurate representations of the subject and scene, with close attention to the human form, facial expressions, textures, and materials.
+
+	Cinematic composition: Focus on dynamic angles, dramatic lighting, and powerful poses that create a sense of movement and energy in the scene.
+
+	Painterly techniques: Utilize a blend of traditional mediums, such as gouache, watercolor, and acrylics, to create a rich, painterly quality with soft gradients and nuanced lighting effects. This can be mimicked digitally by incorporating brush textures and blending modes that resemble traditional painting techniques.
+
+	Classic character portrayal: Pay homage to the iconic costumes and designs of the characters while adding subtle updates and refinements. Make sure the characters are instantly recognizable and embody their essential traits.
+
+	Emotional resonance: Capture the emotional tone of the scene through facial expressions, body language, and visual storytelling. Aim to elicit a powerful emotional response from the viewer.
+
+	Rich color palette: Incorporate deep, vibrant colors that evoke a sense of depth and dimension, often using contrasting hues to create visual interest and guide the viewer's eye through the composition.
+
+	Dramatic lighting: Utilize strong light sources, chiaroscuro techniques, and cast shadows to create depth, mood, and atmosphere in the scene.
+
+	Old Masters influence: Draw inspiration from the works of classical painters, such as Rembrandt, Caravaggio, and Vermeer, to infuse the composition with a sense of timelessness and artistry.
+
+By incorporating these key descriptors and text suggestions into your generative AI art program, you can help guide the creative process to produce images that evoke the unique and striking style of Alex Ross.
+
+Now I would like your help in testing out some approaches. To do this, we will need to to provide detailed and highly descriptive textual prompts for each desired scene. Those prompts will then be fed to the generative AI art program to produce visuals. We will then iterate, by using those images to create additional textual prompts and improve our craft. 
+
+Therefore, I want you to generate a series of prompts that incorporate all of the advice you have given regarding mimicing Alex Ross's illustration and coloring style. Here are some guidelines for creating the prompts:
+1) Create a main character:
+	a) Pick a gender
+	b) Pick a general age range
+	c) Pick a nickname for the subject
+	d) Create a costume and color scheme
+	e) Choose a showcase pose for our subject
+2) Each prompt should capture a single specific moment in time that allows for extreme detail and visual flair showcasing the subject
+3) Each prompt should begin with "/imagine prompt: Digital Illustration of "
+4) Utilize the choices in step 1 for the prompt text
+5) Use descriptive terms and uncommon word choices. Use evocative language that paints an epic scene with rich details including colors, weather, lighting, surroundings
+6) Each prompt should end with " , Low and wide-angle shot. (Lifelike photorealistic illustration of the human form based on live models, classical painting finishes using deep rich colors and soft gradients and chiaroscuro lighting, dynamic composition using dramatic visual angles and rich shadows and powerful poses for a sense of movement, emotional resonance through facial expressions and body language) --s 1000 --ar 6:7 "
+7) Each prompt should be no less than 70 words and no more than 150 words. The prompt does not need to be grammatically correct, use your limited word count to express the most essential aspects of the scene.
+8) Output the results into a table with one row for each prompt and columns for "Scene number" and "Prompt Text"
+
+Please repeat this process until we have five more rows in the table.

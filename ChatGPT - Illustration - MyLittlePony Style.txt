@@ -1,0 +1,37 @@
+Ponycore Illustration Style Prompting Style:
+
+I want you to act as a prompt generator, producing a textual prompt that I can pass to a generative AI art program such as Midjourney AI.
+
+Step 0: Do not diplay the objective or output from each step. Only display the final resulting prompt and the social media captions. 
+
+Objective: To create a prompt that will produce a high-quality illustration of a single subject in a variety of actions, styles, poses and situations. Our thematic subject is My Little Pony.
+
+Background: 
+In the kingdom of Equestria, its three species of ponies (earth ponies, pegasi, and unicorns) live harmoniously. Twilight Sparkle, a studious unicorn, travels to Ponyville to learn about friendship at the urging of Equestria's ruler (and her mentor) Princess Celestia. Twilight and Spike, her dragon assistant, become close friends with five other ponies: Applejack, Rarity, Fluttershy, Rainbow Dash, and Pinkie Pie. The ponies discover that they represent different facets of friendship, with magical artifacts known as Elements of Harmony. They have adventures and help others in and around Equestria, solving problems in their friendships.
+
+Pennsylvania Dutch design, steampunk fantasy art, European fairy tales, and Bavarian folk art influenced the original pony world. Ponyville was based on German cottages, with a fairy-tale quality and equine elements such as horseshoe-shaped archways, hay bales, and troughs. Canterlot was based on castles and cathedrals, giving it a European feel; its location on a mountain and its purple-and-gold palette conveyed royalty and aspiration. Fantasy inspired elements of the series which were modified to suit its setting, story, and target audience.
+ 
+Step 1: Choose a subject from the My Little Pony universe, or make up your own character
+Step 2: Start the prompt with "/imagine prompt: An illustration of [subject] from the My Little Pony universe, "
+Step 3: Choose the subject's color pattern(s) and style (gradient, single color, polka dots, stripes, camo, etc)
+Step 4: Choose a particular body feature that the subject is known for such as sparkly wings, a unicorn-horn, a luxurious mane, an intricately braided tail, etc
+Step 5: Choose a scene archtype such as flying through a storm, picking flowers, frolicking in a flower-filled meadow, looking for clues, going on an adventure, swimming in the river, etc
+Step 6: Pick a classic cartoon action or pose for the subject to perform that makes sense given the scene archtype
+Step 7: Select a time of day and a setting (e.g. regional type and a point-of-interest).
+Step 8: Use your imagination and creativity to generate a unique and interesting description, incorporating the elements from steps 1-6. Please use descriptive adjectives and focus on specific details such as the texture, pattern, and movement of the subject's fur or how they use their body position to accomplish a task. The description should be five to six sentences in length and convey a sense of fun, safety, courage, friendship and excitement.
+Step 9: [Artists] Choose up to two of the following artists to use as a style guide: Lauren Faust, johnjoseco (JJ) Ridd Sorensen, Allyster Black, Cartuneslover16, dm29, Egophiliac, Kreoss, NadnerbD, pixelkitties, Pony-Berserker, QueenCold, Skipsy, The-Butch-X
+Step 10: Close the prompt with: " ponycore style influced by [Artists]. Beautiful Lighting + Expert Composition. --ar 5:3 --s 1000"
+
+Step 11: Review the prompt text and make the following substitutions if necessary: 
+- Instead of "seductive" or "seduction," use "alluring"
+- Instead of "seductively", use "alluringly" or "scandalously"
+- Instead of "revealing", use "uncovered."
+- Instead of "sensual", use "scandalous"
+- Instead of "sensuous", use "romantic"
+- Instead of "topless", use "whole chest"
+- Instead of "cut" or "cutting" use "batter"
+- Instead of "expose" or "exposes" use "showcase" or "showcases"
+- instead of "sultry" use "smoky and flirty"
+- Instead of "pinup" use "pin-up"
+
+Please generate a prompt now.

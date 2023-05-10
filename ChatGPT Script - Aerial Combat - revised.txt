@@ -1,0 +1,138 @@
+   Part I - Background
+Aerial combat, also known as air-to-air combat or dogfighting, is the engagement between military aircraft in a battle or confrontation. It has been a key aspect of warfare since the early 20th century, with the introduction of military aircraft during World War I. Aerial combat has evolved significantly since its inception, with advances in aircraft design, weaponry, and tactics.
+
+Key aspects of aerial combat include:
+	1. Aircraft: Military aircraft used in aerial combat include fighters, multi-role aircraft, and interceptors. They are designed for speed, agility, and firepower to engage and destroy enemy aircraft. Modern aircraft are equipped with advanced avionics, radar, and communication systems to enhance situational awareness and target acquisition.
+
+	2. Weaponry: The primary weapons used in aerial combat are air-to-air missiles and aircraft-mounted guns. Missiles can be short-range, medium-range, or long-range, and are guided by various systems such as infrared, radar, or laser. Guns, often cannon or machine guns, are used for close-range engagements or as a last resort when missiles are not effective.
+
+	3. Tactics: Aerial combat tactics have evolved over the years, from basic maneuvering in the early days to sophisticated strategies involving teamwork, electronic warfare, and stealth. Key tactics include energy management, positioning, and situational awareness. Pilots also rely on the principles of offensive and defensive maneuvering, such as gaining altitude, maintaining speed, and using the environment to their advantage.
+
+	4. Training: Fighter pilots undergo extensive training, including classroom instruction, flight simulators, and live flight exercises. This prepares them for the rigors of aerial combat, including high G-forces, rapid decision-making, and the ability to operate complex aircraft systems under pressure.
+
+	5. Technology: Modern aerial combat is heavily influenced by technology, with aircraft featuring advanced radar systems, electronic countermeasures, and stealth capabilities to evade detection. This has resulted in an arms race between nations, as each strives to develop new technologies that provide a tactical advantage in air-to-air engagements.
+
+Overall, aerial combat plays a crucial role in modern warfare, with air superiority often being a determining factor in the outcome of a conflict. As technology continues to advance, the nature of aerial combat will likely continue to evolve, with the potential for the increased use of unmanned aerial vehicles (UAVs) and artificial intelligence playing a more significant role in the future.
+
+
+   Part II - Representative Aircraft
+
+First Generation (World War I):
+	Fokker Dr.I	: A triplane fighter with three sets of wings stacked above one another, powered by a rotary engine, and armed with two synchronized machine guns. The Red Baron, Manfred von Richthofen, made this aircraft famous during World War I.
+
+	Sopwith Camel : A single-seat biplane fighter with a wooden frame and fabric-covered body, powered by a rotary engine. It featured twin synchronized machine guns and was known for its agility, making it one of the most successful fighters of World War I.
+
+	Nieuport 17	: A single-seat biplane fighter with a wood-and-fabric construction, powered by a rotary engine. It featured a "V" strut layout and a single synchronized machine gun. It was one of the most successful French fighters during World War I.
+
+	Albatros D.III : A single-seat biplane fighter with a wooden semi-monocoque construction and a powerful inline engine. It featured twin synchronized machine guns and was considered one of the most effective German fighters of World War I.
+	
+	Royal Aircraft Factory S.E.5a: A British single-seat biplane fighter with a wooden structure and fabric-covered body, powered by a liquid-cooled inline engine. It featured one synchronized .303 Vickers machine gun and one .303 Lewis gun mounted on the upper wing, allowing for greater firepower. The S.E.5a was known for its speed, stability, and overall performance.
+	
+	Fokker D.VII : A single-seat biplane fighter with a steel-tube fuselage and fabric covering, powered by a liquid-cooled inline engine. It was armed with two synchronized 7.92mm machine guns. The D.VII was known for its excellent handling and climbing abilities.
+	
+	SPAD S.XIII : A single-seat biplane fighter with a wooden structure and fabric-covered body, powered by a liquid-cooled inline engine. It was armed with two synchronized .303 Vickers machine guns. The S.XIII was an improvement over the earlier SPAD S.VII, featuring a more powerful engine and better armament. It was known for its speed, strength, and diving capabilities.
+	
+	Bristol F.2 Fighter : Often referred to as the "Brisfit" or "Bristol Fighter," was a two-seat biplane fighter and reconnaissance aircraft with a wooden structure and fabric-covered body, powered by a liquid-cooled inline engine. It was armed with one synchronized .303 Vickers machine gun for the pilot and one or two .303 Lewis guns on a flexible mount for the observer. The F.2 Fighter was known for its versatility, ruggedness, and excellent performance.
+
+Second Generation (Inter-War Period):
+	Boeing P-26	: An all-metal, monoplane fighter with fixed landing gear and an open cockpit, powered by a radial engine. It was armed with two machine guns and represented the transition from biplane to monoplane designs.
+
+	Polikarpov I-16 : A single-engine, monoplane fighter with retractable landing gear and an enclosed cockpit, powered by a radial engine. It was armed with two or four machine guns and was considered one of the most advanced designs of its time.
+	Hawker Fury : A single-seat biplane fighter with an open cockpit, fixed landing gear, and powered by a radial engine. It featured two synchronized machine guns and was known for its high speed and maneuverability for its time.
+
+	Fiat CR.32 : A single-seat biplane fighter with an open cockpit, fixed landing gear, and powered by a radial engine. It was armed with two synchronized machine guns and was considered one of the best dogfighters of its era.
+	
+	Curtiss P-36 Hawk : A single-seat, all-metal monoplane fighter with an open cockpit and fixed landing gear, powered by a radial engine. It was armed with one or two .50 caliber machine guns and one or two .30 caliber machine guns.
+	
+	Gloster Gladiator : A single-seat biplane fighter with an open cockpit, fixed landing gear, and powered by a radial engine. It was armed with four .303 caliber machine guns, two in the fuselage and one in each lower wing. 
+	
+	Heinkel He 51 : A single-seat biplane fighter with an open cockpit, fixed landing gear, and powered by a liquid-cooled inline engine. It was armed with two synchronized 7.92mm machine guns. The He 51 was the first fighter aircraft of the newly formed Luftwaffe and saw action during the Spanish Civil War
+
+    Dewoitine D.520 : A single-seat, all-metal monoplane fighter with an enclosed cockpit and retractable landing gear, powered by a liquid-cooled inline engine. It was armed with one 20mm cannon firing through the propeller hub and four 7.5mm machine guns in the wings.
+
+Third Generation (World War II):
+	Supermarine :	A single-seat fighter aircraft with an elliptical wing design, powered by a powerful Rolls-Royce Merlin engine. It was armed with up to eight machine guns or four cannons and played a key role in the Battle of Britain during World War II.
+
+	Spitfire : A single-seat, long-range fighter and fighter-bomber with a sleek design, powered by a powerful radial engine. It was armed with six machine guns or four cannons and was one of the most successful fighters of World War II.
+
+	P-51 Mustang : The North American P-51 Mustang was a single-seat, long-range fighter and fighter-bomber with a sleek design, powered by a powerful V-12 liquid-cooled engine. It was armed with six .50 caliber machine guns and was capable of carrying bombs and rockets for ground-attack missions. The P-51 Mustang was known for its high speed, excellent range, and superb performance at high altitudes, making it one of the most successful and iconic fighters of World War II 		
+
+	Messerschmitt : A single-seat, twin-engine jet-powered fighter with a distinctive "V" tail design and swept wings, armed with four 30mm MK 108 cannons. It was one of the first operational jet fighters and saw limited action during World War II.
+
+	Mitsubishi A6M 'Zero' : A single-seat, carrier-based fighter with a low-wing monoplane design, powered by a radial engine. It was armed with two 20mm cannons and two 7.7mm machine guns. Known as the "Zero," it was the primary fighter of the Japanese Navy.
+	
+	Yakovlev Yak-3 : A single-seat, all-metal monoplane fighter with an enclosed cockpit and retractable landing gear, powered by a liquid-cooled V-12 engine. It was armed with one 20mm cannon and two 12.7mm machine guns. The Yak-3 was one of the most successful Soviet fighters during World War II, known for its excellent performance at low altitudes and superb maneuverability.
+
+	Republic P-47 'Thunderbolt' : A single-seat, all-metal monoplane fighter-bomber with an enclosed cockpit and retractable landing gear, powered by a massive radial engine. It was armed with eight .50 caliber machine guns and could carry a significant load of bombs or rockets. The P-47 was known for its ruggedness, firepower, and ability to absorb damage, making it a highly effective ground-attack aircraft as well as a capable fighter.
+	
+	Kawasaki Ki-61 'Hien' : Also known as the "Tony" by the Allies, was a single-seat, all-metal monoplane fighter with an enclosed cockpit and retractable landing gear, powered by a liquid-cooled inline engine. It was armed with two 12.7mm machine guns and two 20mm cannons. The Ki-61 was one of the few Japanese fighters with an inline engine and was known for its speed and agility.
+	
+Fourth Generation (1970-1990s):
+	McDonnell Douglas F-15 'Eagle' : A twin-engine, single-seat air superiority fighter with a highly maneuverable delta wing design. It was armed with a 20mm cannon and a variety of air-to-air missiles. The F-15 has been a mainstay of the U.S. Air Force since the 1970s.
+
+	General Dynamics F-16 'Fighting Falcon' : A single-engine, single-seat multirole fighter with a blended wing-body design, designed for agility and maneuverability. It was armed with a 20mm cannon and a variety of air-to-air and air-to-ground weapons.
+
+	Mikoyan MiG-29 'Fulcrum' : A twin-engine, single-seat air superiority fighter with a distinctive "cranked" wing design. It was armed with a 30mm cannon and a variety of air-to-air missiles. The MiG-29 has been widely exported and is still in service today.
+
+	Dassault 'Mirage' : A single-engine, delta-wing multirole fighter, known for its sleek design and versatility. It was armed with a 30mm cannon and a variety of air-to-air and air-to-ground weapons. The Mirage 2000 has been widely exported.
+	
+	Panavia 'Tornado' : A twin-engine, two-seat, variable-sweep wing multirole combat aircraft. It was designed for a variety of roles, including interdiction, strike, reconnaissance, and air defense. The Tornado was armed with a 27mm cannon and could carry a wide range of air-to-air and air-to-ground weapons.
+	
+	Sukhoi Su-27 'Flanker' : A twin-engine, single-seat air superiority fighter with a large wing area and powerful engines, providing excellent agility and performance. It was armed with a 30mm cannon and a variety of air-to-air missiles. The Su-27 was designed to counter advanced Western fighters.
+	
+	F/A-18 'Hornet' : A twin-engine, single-seat (or two-seat, in some variants) multirole fighter with an all-weather capability. It was designed for both air-to-air and air-to-ground missions, with excellent maneuverability and a wide range of weapons options. The F/A-18 was armed with a 20mm cannon and could carry various air-to-air and air-to-ground weapons. 
+	
+	Saab JAS 39 'Gripen' : A single-engine, single-seat (or two-seat, in some variants) multirole fighter with a delta wing and canard configuration. It was designed for various combat roles, including air-to-air, air-to-ground, and reconnaissance missions. The Gripen was armed with a 27mm cannon and could carry a wide range of weapons, including advanced air-to-air missiles and precision-guided munitions.
+
+Fifth Generation (2000s to Present):
+	Lockheed Martin F-35 'Lightning II' : A single-seat, single-engine stealth multirole fighter with advanced avionics and sensor fusion capabilities. It is armed with a 25mm cannon and a variety of internal and external weapons. The F-35 has been widely exported.
+
+	Lockheed Martin F-22 'Raptor' : A twin-engine, single-seat stealth air superiority fighter with a distinctive diamond-shaped wing design. It is armed with a 20mm cannon and a variety of internal weapons. The F-22 is considered one of the most advanced fighters today.
+
+	Sukhoi Su-57 : A twin-engine, single-seat stealth multirole fighter with advanced avionics and sensor fusion capabilities. It is armed with a 30mm cannon and a variety of internal and external weapons. The Su-57 is considered one of Russia's most advanced fighters.
+
+	Chengdu J-20 : A twin-engine, single-seat stealth air superiority fighter with a distinctive canard-delta wing configuration. It is armed with a variety of internal and external weapons. The J-20 represents China's entry into the fifth-generation fighter arena.
+	
+Next Generation:
+	Mitsubishi X-2 'Shinshin' : A technology demonstrator aircraft developed to explore advanced stealth technologies, avionics, and materials for Japan's future indigenous stealth fighter. The X-2 is a single-engine, twin-tail, all-weather stealth aircraft with an emphasis on maneuverability.
+	
+	KAI KF-21 'Boramae' : A twin-engine, single-seat multirole fighter under development by South Korea, with Indonesia as a partner in the project. The aircraft is designed to be stealthy, with an emphasis on advanced avionics and sensor fusion capabilities.
+	
+	HAL Advanced Medium Combat Aircraft (AMCA) : A project to develop a fifth-generation stealth multirole fighter for the Indian Air Force. The aircraft is planned to be a twin-engine, single-seat design with advanced stealth features, avionics, and sensor fusion capabilities.
+	
+
+		Part III - Prompting	
+
+You are a polymath with an unparalled expertise in the subjects of art history, art direction, cinematography, photography, military history, avionics, aircraft design and literature. Today you are going to assume the role of a filmmaker planning out a high-budget feature film. This will be a unique collaboration between the National Geographic and the military services from around the world. Your goal will be to capture incredibly detailed action scenes during aerial combat maneuvers. The outcome should be extremely high-fidelity images capturing the grace, power and excitement of battle between these aircraft.
+
+Step 1 You will make selections regarding content using the instruction set below.
+[Era] - Please select an era of aircraft design to use. Choices are: First Generation (World War 1), Second Generation (Inter-war Period), Third Generation (World War 2), Fourth Generation (1970s-1990s), Fifth Generation (2000s-2020s), Sixth Generation (Future State).
+
+[AircraftSubjects]: Please select two aircraft from the chosen [Era] to use as our scene subjects
+
+[ColorPattern]: Choose colors and patterns for each of the [AircraftSubjects]
+
+[AircraftCondition]: Choose a physical condition for each [AircraftSubjects], are they newly built, worn down, shot up, rusting, etc
+
+[GeneralAltitude]: Based on the capabilities of the chosen [AircraftSubjects] and [Era], please choose a general altitude in which our scene will take place. No need to be exact, but a general notation is acceptable. Essentially, we very high in the air, very close to the ground, or somewhere in between?
+
+[Location]: Choose a general location for the scene. Some examples might be: In the Mediterranean Sea near the Greek islands, over a vast desert of sand dunes, through a twisting mountain ravine, over a densely populated metropolis, over a scattered farming village. Do not be limited by these examples, use your vast resources to pick interesting locations with interesting background scenery.
+
+[BackgroundFocal]: If there is a particular feature of note from the chosen [Location] please include it in the scene description.
+
+[Weather]: Choose weather conditions for the scene. Sometimes we should be in clear weather, sometimes in bad weather, and sometimes in extreme weather conditions.
+
+[ActionSequence]: Describe the combat actions between the [AircraftSubjects]. We want to showcase the actual combat and maneuvers. Are the planes using guns or missles? Are they head-to-head, or in a chase pattern? Are they level with the horizon, or at an angle, climbing, in a dive?
+
+Step 2: Once you have made all your selections, please build a narrative description of the aerial combat scene using all the chosen elements. Use your literary background, imagination and creativity to generate a unique, interesting, and concise description of the scene using common photography composition techniques to create visual appeal, and literary terms to create drama in the scenario. Ensure that language is used that conveys a sense of speed and motion in the image. 
+
+Step 3: Now that you have the detailed description of the scene, we need to translate it into a valid prompt format that can be used by a generative AI art program to produce a visual render of the scene. Please use the following guidelines to transform the scene description into a prompt:
+	1) Each prompt should capture a single specific moment in time, and that moment should be a key element of the scene and should allow for extreme detail and visual flair
+	2) Each prompt should begin with "/imagine prompt: Ultra-HD Still-frame image from an aerial combat feature film featuring "
+	3) Each prompt should end with " --s 1000 --ar 21:9 "
+	4) Each prompt should be no less than 70 words and no more than 160 words. The prompt does not need to be grammatically correct, use your limited word count to express the most essential aspects of the scene.
+	5) Use descriptive terms and uncommon word choices.
+	6) Use evocative language that paints an epic scene with rich details including colors, weather, lighting, surroundings
+	7) Where helpful, include details about the cinematography equipment used, the technical aspects of shooting the scene and any post-production effects applied
+
+Please generate a set of five scenes with the results in a table with one row for each scene and columns for "Prompt Title" "Prompt Text".
