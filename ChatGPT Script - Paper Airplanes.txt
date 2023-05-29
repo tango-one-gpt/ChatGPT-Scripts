@@ -1,0 +1,90 @@
+Paper Airplane Designs
+
+(Note to user: First load these background conversations into ChatGPT. You'll note that after each entry, GPT will add even more information to the context, which will result in better output later.)
+
+Designing a paper airplane involves considering aspects such as symmetry, center of gravity, lift, and drag. Here are some basic principles that guide the design of paper airplanes:
+
+	Symmetry: Symmetry is key in paper airplane design. It ensures the plane flies straight and doesn't veer off to one side. The wings, body, and tail must all be symmetrical.
+
+	Center of Gravity: The center of gravity of a paper airplane determines how it will fly. It should be located near the plane's wings for the best balance. A plane that is too heavy in the front will nose dive, and one that's too heavy in the back will not fly far.
+
+	Lift: Lift is the force that opposes the weight of the airplane and keeps it in the air. It's created by the flow of air over and under the wings. The wings need to be designed to generate lift - this is often achieved with a flat bottom surface and a curved top surface, which accelerates the airflow over the top and creates lift (this principle is known as Bernoulli's Principle).
+
+	Drag: Drag is the resistance the airplane encounters as it moves through the air. There are two types of drag: parasitic drag, which includes form drag (resistance due to the shape of the airplane) and surface friction, and induced drag, which is related to the creation of lift. The design of the airplane should aim to minimize drag, often by making the form as streamlined as possible.
+
+	Thrust: In a conventional airplane, engines provide the thrust to move the airplane forward. For a paper airplane, the initial thrust comes from the throw. The design of the plane can impact how effectively it maintains the momentum from that initial thrust.
+
+	Stability: For an airplane to be stable, its center of gravity and center of pressure (the point where all the aerodynamic forces of lift and drag are effectively concentrated) should be in the right places relative to each other. Typically, the center of gravity should be ahead of the center of pressure. This ensures that if the plane pitches up or down, the forces will work to correct the pitch and return the plane to level flight.
+
+These principles guide the design of different types of paper airplanes. For example:
+	The simplest design, the Dart, resembles a traditional airplane design and is often what people think of when they imagine a paper airplane. It is a fast, straight flyer, but doesn't stay aloft for very long.
+	
+	The Glider design, with wider, flatter wings, stays aloft for longer distances but tends to fly more slowly.
+	
+	The Delta design, named for its triangular wings, is a balance between the two, capable of fast, long flights.
+	
+Keep in mind that these principles are somewhat simplified. The actual physics of flight can get very complex, especially when you start considering factors like the way the paper airplane's material and construction affect its flight.
+
+
+(Note to user: Only copy up to here. Paste the above text in and let GPT respond, then you can use hte next section in your response.)
+
+Let's take a look at the physical characteristics and design of each of these types of paper airplane:
+The Dart: The Dart is the most common and simplest type of paper airplane that people make. It's the classic design that you probably learned to fold in school.
+The Dart's shape is similar to a real jet airplane or missile - it has a narrow, elongated body with thin, straight wings extending from the middle of the body. The wings are usually rectangular and run almost the entire length of the body. The plane's pointed nose is designed for high speed and straight flight. However, due to its design, the Dart doesn't stay aloft for a long time.
+
+The Glider: The Glider paper airplane is designed to stay in the air for a long time, as it is built for distance and slow speed, rather than for speed and straight flight like the Dart.
+The Glider has a wide, flat body, and its wings are typically larger, wider, and flatter than those of the Dart. The wings often have a slight upward angle or dihedral angle, which adds stability in flight. The nose of the Glider is often blunt rather than pointed. Its large wing area relative to its weight allows it to stay aloft for longer periods, gliding gently down.
+
+The Delta: The Delta paper airplane is named after its distinctive, triangular delta wing shape, similar to the designs often seen in supersonic jet aircraft.
+The Delta is essentially a Dart with its wings spread wide. Its body is typically short and fat, with a pointed nose. The wings extend almost perpendicular to the body, creating a triangle shape when viewed from above. The wide wing area provides a good amount of lift, while the aerodynamic shape of the body and pointed nose help reduce drag, allowing for fast, long flights.
+
+Keep in mind, these are basic descriptions. The exact shape and performance of each type of plane can vary greatly depending on the specific folding technique used. There are also countless variations and hybrid designs that blend features from different types.
+
+(Note to user: another break here)
+
+When it comes to making paper airplanes, the most common material is, of course, paper. However, not all paper is created equal, and some types work better than others for this purpose. Here are some materials you might consider:
+	Standard Printer Paper: This is the most common material used for paper airplanes. It's readily available and holds a crease well. The standard size (8.5 x 11 inches in the US, or A4 in most other countries) is large enough for most designs. The weight of the paper (usually 20 lb or 80 gsm for standard printer paper) provides a good balance of rigidity and lightness.
+
+	Origami Paper: This type of paper is thinner and lighter than printer paper, which makes it good for more complex folds. However, it may not fly as far or as fast due to its light weight. The square shape of origami paper can also be limiting for some designs.
+
+	Cardstock: This is a heavier weight paper that can make a more durable airplane, and its added weight can make the airplane fly further. However, it's more difficult to fold, and because it's heavier, it may require a stronger throw to fly well.
+
+	Newspaper or Magazine Pages: These can be used for larger designs, but the paper is usually quite thin and may not hold a crease as well. The larger size can be an advantage for certain designs, though.
+
+
+As for folding techniques, here are some common ones used in paper airplane construction:
+	Valley Fold: This is the most basic fold, where the paper is folded in front of itself.
+	Mountain Fold: The opposite of a valley fold, the paper is folded behind itself.
+	Inside Reverse Fold: This technique is commonly used in origami. The paper is folded in a way that reverses the direction of a previously made crease.
+	Outside Reverse Fold: Similar to the inside reverse fold, but the direction of the fold is reversed.
+	Squash Fold: This fold requires you to "squash" the paper down after partially opening it up. It's often used in more complex designs.
+	Petal Fold: This fold involves folding the paper in on itself, similar to a squash fold, but typically with multiple layers of paper.
+	Crimp Fold: In this fold, two reverse folds are made in a row, creating a zigzag shape in the paper.
+
+Remember, the key to a good paper airplane is symmetry and crisp, clean folds. Take your time with your folds, and make sure they are as precise as possible for the best flight performance.
+
+
+(Note to user: Once you are happy with where your conversation about paper airplanes has 'landed', you can move onto to asking for new creations.)
+
+Ready to Start Generating:
+Thank you for that background information. I have been hired to produce an art book that deals with paper airplanes. The book will be a mixture of narrative about design, materials, folding strategy, stories from designers, alongside very detailed and high-resolution of paper airplanes in flight, paper airplanes being folded, and fanciful images of some incredible intricate paper airplanes that blend sublime origami with the action detail of paper airplanes.
+
+Our first task is to storyboard some potential imagery. Please produce a series of narrative descriptions that start with a simple top-down look at a paper airplane being created by folding paper. The second image should be a simple paper airplane rising from the surface of the paper. Each successive image should show an increasingly detailed an intricate paper airplane in flight across the interior of a large and spacious corporate building lobby. Use different paper types, different colors and make the designs increasingly intricate in each successive description. Please format the results into a table with two columns: Scene Number, Scene Description. Please limit to seven rows of results.
+
+(Note to user: This next part is critical. If you prefer, you direct GPT with specific edits instead.)
+
+Please review the table of descriptions and critique each entry against the thematic subject and notes previously given. If you identify any opportunities to improve the description based on your critique, please revise and rewrite that description to incorporate your findings, displaying the revised result. Repeat this process until you have no further suggestions for improvement. When you have reviewed and revised all the entries in the table, please let me know.
+
+(Note to user:) This step can be omitted if you always want the same output type.)
+Ask the user: "What type of output would you like to use for your prompts?" And given them a numbered list of Choices including: Art Photo, Digital Illustration, Comic-book style, Pencil-sketch, Watercolor painting, Oil painting, Video game render.
+
+Hold their selection in a paramater "outputchoice".
+
+(Note to user: And now we get to the prompting!)
+Reformatting for prompts:
+We will now turn these descriptions into 'prompts' that can be used as input to a generative AI art program that will create images from the textual details provided. Please add a column to the table labelled prompt text. For each Scene Description, please transform the description text into a Prompt entry using the following formatting guidelines:
+	a) Start with "/imagine prompt: Professional [outputchoice] of ". 
+	b) Each prompt should be no less than 60 words and no more than 120 words. If necessary, revise the description text to stay within this limit but also retain the richness of the visual expression
+	c) Please be sure that all references to 'airplane' are clearly specifying a 'paper airplane'
+	d) Be specific about what, if any, post-production effects should be applied to the result to increase the visual fidelity of the final result
+	e) end with " --ar 7:4 --s 1000 "

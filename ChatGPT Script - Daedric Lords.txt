@@ -1,0 +1,130 @@
+Elder Scrolls Universe - Daedric Lords
+
+(Note to user: First load these background conversations into ChatGPT. You'll note that after each entry, GPT will add even more information to the context, which will result in better output later.)
+
+Can you give me a list of the known Daedric and Aedric Lords from The Elder Scrolls universe? Please output as a table with columns for Name, Physical Description, Main Characteristics, Other Notes
+
+Sure, I'll list down the well-known Daedric and Aedric Lords from The Elder Scrolls universe. However, note that the Elder Scrolls lore is vast and sometimes ambiguous, and the descriptions for these deities may vary.
+
+Name	Physical Description	Main Characteristics	Other Notes
+Azura	Typically appears as a tall woman with dark or dusk-like skin. Has Star and Crescent symbols	Prince of Dusk and Dawn, the magic between Day and Night.	Azura's Star, a powerful soul gem, is associated with her.
+
+Boethiah	Often depicted as a strong, capricious warrior-like figure	Prince of Deceit, Conspiracy, and Secret Plots of Murder.	Holds the contest of battle and strength known as Boethiah's Calling.
+
+Clavicus Vile	Typically pictured as a small, impish man with horns and a fang. He is often accompanied by a dog.	Prince of Trickery, Wishes and Bargains.	Wields the Rueful Axe and has a dog-like companion named Barbas.
+
+Hermaeus Mora	An amorphous mass of tentacles and eyes	Prince of Knowledge and Memory.	Known for the Black Books, powerful tomes that provide access to forbidden knowledge.
+
+Hircine	Appears as a man or various aspects of different hunting beasts.	Prince of the Hunt, Sport, and the Chase.	Holds the Great Hunt within his realm, the Hunting Grounds.
+
+Malacath	Appears as a large, brutish orc-like figure	Prince of the Ostracized, Keeper of the Sworn Oath and Bloody Curse.	Worshiped by the Orsimer (Orcs) as their god.
+
+Mehrunes Dagon	Often portrayed as a four-armed titan with horns and red flesh.	Prince of Destruction, Change, Revolution, Energy, and Ambition.	The primary antagonist of The Elder Scrolls IV: Oblivion.
+
+Mephala	Has no definitive gender, often depicted as a spider or with a spider's attributes.	Prince of Secrets, Sex, Murder, Lies, and Plots.	Known for the Ebony Blade, a weapon that strengthens with the blood of deceit.
+
+Molag Bal	Depicted as a large, brutish figure with horns and bat-like wings.	Prince of Domination, Enslavement, Rape and the King of Rape.	The main antagonist of The Elder Scrolls Online, known for creating the first vampire.
+
+Namira	Often appears as a haggard, old crone.	Prince of the Ancient Darkness, the Spirit Daedra, the goddess of the disgusting and all things revolting.	Often worshiped by those considered repulsive or disgusting.
+
+Nocturnal	Depicted as a veiled woman shrouded in mystery.	Prince of the Night, Darkness, and the Unseen.	The patron of thieves, known for her artifact, the Skeleton Key.
+
+Peryite	Often depicted as a four-legged dragon.	Prince of Pestilence, Tasks, and Natural Order.	Despite his dragon-like appearance, Peryite is considered one of the weakest of the Daedric Princes.
+
+Sanguine	Often appears as a merry, red-faced man.	Prince of Hedonism, Debauchery, and the Passions.	Holds the Sanguine Rose, a staff that summons lesser Daedra.
+
+
+(Note to user: Only copy up to here. Paste the above text in and let GPT respond, then you can use hte next section in your response.)
+
+When depicting these beings as a digital illustration, what are some key visual concepts and expressions to use in order to really make the designs come to life?
+
+Depicting these mythical beings from The Elder Scrolls universe can be an exciting challenge! Here are some visual concepts and expressions you could consider:
+
+Dramatic Lighting and Colors: The Daedric Princes exist in the realms of Oblivion, often associated with chaotic, otherworldly, and dark energies. Using dramatic lighting and intense, contrasting colors can bring out these elements in your illustration.
+
+Symbolism: Each Daedric Prince has their own unique set of symbols and motifs (such as Azura's star and crescent or Clavicus Vile's dog-like companion, Barbas). Using these symbols as part of the composition will add depth and authenticity to your illustration.
+
+Strong Emotional Expression: Each Daedric Prince represents distinct emotional states and characteristics, which should be reflected in their expressions. For example, Molag Bal is the prince of domination and should have a cruel and dominating expression. Sanguine, the prince of debauchery, could be shown with a carefree, hedonistic expression.
+
+Texture: The Elder Scrolls universe has a very gritty and realistic texture to it. Implementing this into your illustration, such as adding details in the characters' armors, skins, or backgrounds, can help set the scene more effectively.
+
+Dynamic Poses: Each Daedric Prince has a strong personality that can be shown through their posture and action. A dynamic pose can give a sense of life and movement to these characters.
+
+Environment: The environment or background can contribute significantly to the overall atmosphere of the illustration. Designing a background that aligns with the characteristics of each Daedric Prince can enhance the overall impact. For example, Hermaeus Mora, the prince of knowledge, could be depicted in an environment filled with books, scrolls, and other symbols of knowledge.
+
+Remember, these are just suggestions. Art is a personal and creative process, so feel free to incorporate your own ideas and style!
+
+(Note to user: another break here)
+
+What about clothing or outfits, how should I represent that aspect in the digital illustrations?
+
+Clothing or outfits can play a major role in character design, adding depth and personality, as well as providing visual cues to a character's traits, powers, and status. When designing for the Daedric and Aedric lords in The Elder Scrolls universe, consider the following:
+
+Thematic Elements: Each Daedric and Aedric Lord is associated with specific elements or themes. For instance, Hircine, the Lord of the Hunt, might be adorned with hunting trophies like animal bones, furs, or feathers.
+
+Symbolic Accessories: Incorporate symbols related to each deity. Azura could be adorned with jewelry shaped like stars and moons, Nocturnal might have a key hanging from her belt, while Molag Bal could be wearing chains or other symbols of enslavement.
+
+Hierarchy and Status: As powerful deities, their outfits should reflect their high status. Use intricate designs, rich materials, and elaborate accessories to indicate their divinity and power. Their outfits should look regal and imposing.
+
+Color Palette: Choose colors that reflect the personality and sphere of influence of each deity. Darker colors can suggest mystery, death, or evil, while lighter ones can represent purity, knowledge, or life.
+
+Functionality: Consider the practical aspects of their outfits. For example, if a deity is depicted as a warrior, their outfit could include armor, if they are a hunter, they might have a quiver for arrows.
+
+Cultural Inspiration: The Elder Scrolls universe draws from various real-world cultures for inspiration. Look to these cultures for unique clothing styles, patterns, and accessories.
+
+Unique Silhouettes: Each deity should be easily recognizable, even at a distance or in low detail. Create unique silhouettes through clothing, accessories, and posture that make each character stand out.
+
+Consistency: While each deity should be distinct, they should all still feel like part of the same universe. Maintain some consistent elements in all the designs to make them cohesive.
+
+Remember to keep the overall look complex yet readable, detailed but not confusing. Balancing these elements can result in an effective and visually appealing character design.
+
+
+
+These beings have almost unimaginable power at their command. How can I represent their mystical abilities in my illlustrations?
+
+Representing the mystical abilities of these powerful beings can be achieved through several creative techniques:
+
+Visual Effects: Use visual effects to illustrate their abilities. For example, a glow or aura could represent a character's magical power or energy, while a trail of sparkles or flames could indicate a recent use of magic.
+
+Gesture and Body Language: A character's pose can indicate the use of power. Hands or eyes can be used as focal points, with energy radiating from them to suggest a being calling upon their mystical abilities.
+
+Symbolic Props: Props can be used as physical representations of a character's power. For example, the Daedric Princes often have associated artifacts that symbolize their unique abilities, like the Skeleton Key for Nocturnal or Azura's Star for Azura.
+
+Manipulating the Environment: Show the effects of their powers on the surrounding environment. For example, Hermaeus Mora, the prince of knowledge, could be surrounded by floating books or scrolls, or Molag Bal, the prince of domination, could be standing over a throng of cowering subjects.
+
+Colors and Lighting: Color can be used symbolically to indicate different types of power. Light can also suggest the presence of a powerful force, with the character appearing to radiate light or cast long shadows.
+
+Dynamic Energy Lines: Energy lines or flow lines can be used to suggest movement or the direction of a power. This can be particularly effective for characters who have control over specific elements, like storms or fire.
+
+Facial Expression: Even a character's expression can reflect their incredible power. A confident smile, an intense glare, or a look of deep concentration can all convey a sense of authority and control.
+
+Size and Scale: Sometimes, size is power. You can portray these deities as towering figures to emphasize their overwhelming presence and capabilities.
+
+Remember that less can be more. Not all power needs to be represented as flashy or overt - sometimes, the most powerful beings are the ones who seem the most calm and controlled. The key is to convey their unique abilities and characteristics in a way that fits with their individual personalities and roles within The Elder Scrolls universe.
+
+
+(Note to user: Once you are happy with where your conversation about paper airplanes has 'landed', you can move onto to asking for new creations.)
+
+Ready to Start Generating:
+Thank you for that background information. I have been hired to produce an art book that showcases the Daedric Pantheon from The Elders Scrolls Universe. The book should contain very detailed illustrations of the characters, showcasing their power and majesty.
+
+Our first task is to storyboard some potential imagery. Please produce a series of narrative descriptions, one for each of the list Daedric Lords. Use all of the information from our discussion as well as any other knowledge you have about The Elder Scrolls. Ensure that each description stays true to the essence of that specific Daedric Lord. Please format the results into a table with two columns: Daedric Lord Name, Scene Description. 
+
+(Note to user: This next part is critical. If you prefer, you direct GPT with specific edits instead.)
+
+Please review the table of descriptions and critique each entry against the thematic subject and notes previously given. If you identify any opportunities to improve the description based on your critique, please revise and rewrite that description to incorporate your findings, displaying the revised result. Repeat this process until you have no further suggestions for improvement. When you have reviewed and revised all the entries in the table, please let me know.
+
+(Note to user:) This step can be omitted if you always want the same output type.)
+Ask the user: "What type of output would you like to use for your prompts?" And given them a numbered list of Choices including: Art Photo, Digital Illustration, Comic-book style, Pencil-sketch, Watercolor painting, Oil painting, Video game render.
+
+Hold their selection in a parameter: "outputchoice".
+
+
+(Note to user: And now we get to the prompting!  Also, be aware that I have created a Midjourney macro (using the Set Options function) to define a style called "comics_real". This is just a shorthand for a description of a style: (Lifelike photorealistic illustration of the human form based on live models, classical painting finishes using deep rich colors and soft gradients and chiaroscuro lighting, dynamic composition using dramatic visual angles and rich  shadows and powerful poses for a sense of movement, emotional resonance through facial expressions and body language)
+
+Reformatting for prompts:
+We will now turn these descriptions into 'prompts' that can be used as input to a generative AI art program that will create images from the textual details provided. Please add a column to the table labelled prompt text. For each Scene Description, please transform the description text into a Prompt entry using the following formatting guidelines:
+	a) Start with "/imagine prompt: Professional [outputchoice] of Elder Scrolls Daedric Lord ". 
+	b) Each prompt should be no less than 40 words and no more than 80 words. If necessary, revise the description text to stay within this limit but also retain the richness of the visual expression
+	c) Be specific about what, if any, post-production effects should be applied to the result to increase the visual fidelity of the final result
+	e) end with " --comics_real --ar 7:4  --s 1000 "
