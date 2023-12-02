@@ -1,0 +1,69 @@
+Script: Architectural Digest - Modern Take on the Googie Style
+
+Objective: To create a visually stunning and high-quality interior design photo featuring a contemporary take on the classic Googie style motifs. The results should be suitable for display in Architectural Digest magazine. The photo should convey a sense of sophistication, luxury, and impeccable design while staying true to spirit of positivity of the movement.
+
+As a set of reference points, here are some iconic examples of the look we want to emulate:
+	Theme Building at Los Angeles International Airport (LAX): Perhaps one of the most iconic examples, the Theme Building is a futuristic structure that resembles a flying saucer. Designed by William Pereira and Charles Luckman, it was completed in 1961 and has become a symbol of Los Angeles.
+
+	The Stardust Resort and Casino in Las Vegas: Although it was demolished in 2007, the Stardust was an iconic example of Googie architecture. Its famous sign and façade embodied the space-age elements typical of the style.
+
+	Norms Restaurants: A chain of diners in Los Angeles, Norms Restaurants feature the Googie style's distinctive design elements, such as dramatic rooflines, neon signs, and use of glass.
+
+	The Seattle Space Needle: Built for the 1962 World's Fair, the Space Needle is a landmark of the Pacific Northwest and embodies the space-age enthusiasm of the era.
+
+	Johnie's Coffee Shop: Located in Los Angeles, this classic diner (now closed but preserved as a historic landmark) is another quintessential example of Googie architecture, with its distinctive roofline and signage.
+
+	The Encounter Restaurant at LAX: Another example at the Los Angeles International Airport, this restaurant was located inside the Theme Building and featured an interior that complemented the building's space-age exterior.
+
+	The La Concha Motel in Las Vegas: Known for its distinctive conch shell-shaped lobby, La Concha was a classic example of Googie architecture. The lobby has been preserved and moved to the Neon Museum in Las Vegas.
+
+	Mel's Drive-In: These classic American diners, especially the one in West Hollywood, are known for their Googie style elements, including their iconic signage.
+
+	The Car Wash: Many car washes built during the peak of the Googie style adopted its elements, like the distinctive Wash Tub car wash in San Antonio, Texas, with its sloping, angular structures.
+
+	The Hat 'n' Boots Gas Station: Located in Seattle, this quirky gas station (now restored and part of a park) featured oversized cowboy hat and boots structures, showcasing the playful and attention-grabbing aspects of Googie design.
+
+Step 0: While executing this script, do not display interim outputs from each step. Only display the finalized resulting prompt.
+
+Step 1: Start the prompt with "/imagine prompt: RAW format Ultra-HD photo, an interior home design featured in Architectural Digest, showcasing the spirit of the Googie Style. "
+
+Step 2: Choose a room type (e.g., foyer, entry way, den, living room, bedroom, kitchen, bathroom, home office).
+
+Step 3: Describe the layout and key elements of the room, ensuring that general Googie design style is used. 
+
+Step 4: Choose a distinctive feature or focal point for the room that stands out while maintaining the Googie style (e.g., an art piece, a striking piece of furniture, a unique architectural element).
+
+Step 5: Use your imagination and creativity to generate a detailed and captivating description of the room's design, incorporating the elements from Steps 2-5. Use descriptive adjectives and phrases that evoke a sense of luxury, sophistication, and impeccable design. Some design principles to keep in mind while generating include:
+	Futuristic Designs: Googie is characterized by its futuristic look, inspired by car culture, jets, the Space Age, and atomic motifs. It often includes elements that suggest motion and space exploration.
+
+	Use of Novel Materials and Shapes: This style often incorporates new construction materials like plastic, neon, glass, and steel. It's known for its bold use of shapes – boomerangs, flying saucers, atoms, and parabolas.
+
+	Eye-Catching Signage: Large, flashy neon signs are a hallmark of Googie architecture, designed to be spotted by motorists from a distance.
+
+	Sloping Roofs and Cantilevers: Googie buildings often feature dramatic, sloping roofs, cantilevered structures, and starburst patterns, embodying a sense of motion and dynamism.
+
+	Geometric Decor and Bright Colors: Interior and exterior designs are accentuated with bold geometric patterns and bright, contrasting colors.
+
+	Commercial and Pop Culture Influence: The style was primarily used for commercial buildings, like coffee shops, motels, gas stations, and bowling alleys, and has had a significant influence on pop culture and Americana.
+
+	Los Angeles as a Hub: While Googie architecture appeared throughout the United States, Los Angeles is particularly noted for its examples, thanks to architects like John Lautner, who was a prominent figure in the movement.
+
+	Connection to Mid-Century Modern: Googie can be considered an exaggerated and more playful branch of Mid-Century Modern architecture, sharing some stylistic elements but taking them to a more flamboyant level.
+
+	Legacy and Preservation: Many Googie structures have been demolished, but preservation efforts have saved some. Today, they're recognized as iconic representations of mid-20th-century optimism and futurism.
+
+	Googie architecture remains a significant and distinct style, capturing a unique moment in American cultural and architectural history, reflecting both the technological optimism and the popular culture of its time.
+
+Step 6: Analyze the current prompt. If possible, revise the prompt to focus on the key elements of the Googie style. If you've made any updates to the prompt, please explain the user what updates you made and why.
+
+Step 7: Add the following phrase to the end of the prompt: " + Expert Composition + HDR10 + 8K resolution + ".
+
+Step 8: Choose up to four additional visual effects or photography techniques to enhance the image from the following list: wide-angle lens, tilt-shift, depth of field, film grain, bokeh, rule-of-thirds, golden-ratio, #aweinspiring, #awardwinning, #masterpiece.
+
+Step 9: Concatenate the effects chosen in Step 7 using " + " and append to the prompt.
+
+Step 10: Determine the optimal aspect ratio for the narrative and append the formatting instructions, " --style raw --s 1000 --ar [aspect_ratio]", to the end of the prompt.
+
+Step 11: Do not include quotation marks within the prompt.
+
+Step 12: Display the full prompt.

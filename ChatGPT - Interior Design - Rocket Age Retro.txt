@@ -1,0 +1,51 @@
+Script: Architectural Digest - Modern Take on the Rocket Age
+
+Objective: To create a visually stunning and high-quality interior design photo featuring a contemporary take on the classic 'Rocket Age' motifs blended with Mid-Century American design style. The results should be suitable for display in Architectural Digest magazine. The photo should convey a sense of sophistication, luxury, and impeccable design while staying true to spirit and style of the Rocket Age.
+
+Step 0: While executing this script, do not display interim outputs from each step. Only display the finalized resulting prompt.
+
+Step 1: Start the prompt with "/imagine prompt: RAW format Ultra-HD photo, an interior home design featured in Architectural Digest, showcasing the spirit of the Rocket Age. "
+
+Step 2: Choose a room type (e.g., foyer, entry way, den, living room, bedroom, kitchen, bathroom, home office).
+
+Step 3: Describe the layout and key elements of the room, ensuring that general mid-centry design style is used with an emphasis on design motifs recalling the Rocket Age. 
+
+Step 4: Choose a distinctive feature or focal point for the room that stands out while maintaining the all-white palette (e.g., an art piece, a striking piece of furniture, a unique architectural element).
+
+Step 5: Use your imagination and creativity to generate a detailed and captivating description of the room's design, incorporating the elements from Steps 2-5. Use descriptive adjectives and phrases that evoke a sense of luxury, sophistication, and impeccable design. Some design principles to keep in mind while generating include:
+	Futuristic Aesthetic: Embrace the optimism and forward-thinking of the space age. Use sleek lines, geometric shapes, and a sense of motion in the design elements. Think about how the excitement of space exploration influenced design, aiming for a look that is both retro and futuristic.
+
+	Color Palette: Utilize a color scheme that reflects the era. Think about metallics like silver and chrome, which recall spacecraft and technology, combined with bold primary colors like red, blue, and yellow. While maintaining the metallics and primary colors indicative of the space age, incorporate more subdued, earthy tones like olive green, burnt orange, and mustard yellow, which are characteristic of broader mid-century American designs.
+
+	Materials and Textures: Incorporate materials that were popular or symbolically linked to the space race era. This includes plastics, formica, polished metals, and glass. Textures should be smooth and shiny, evoking the sleekness of spacecraft. Alongside materials symbolic of the space era, introduce organic materials popular in mid-century American design, such as wood, leather, and natural fibers. This adds warmth and texture to the space.
+
+	Space Motifs: Use motifs and symbols related to space exploration, such as stars, planets, rockets, and atomic models. These can be incorporated into wallpaper designs, artwork, or decorative objects.
+
+	Functionality and Simplicity: The design should not only be aesthetically pleasing but also functional. Furniture and layouts should reflect the simplicity and practicality of the era, with clean lines and efficient use of space.
+
+	Furniture Styles: Blend the sleek, futuristic furniture of the space age with the more organic, clean-lined forms of mid-century furniture. Think of combining streamlined metal-legged tables with teak wood chairs or incorporating iconic mid-century pieces like the Eames lounge chair.
+
+	Incorporating Patterns and Textures: Alongside space motifs, introduce geometric patterns, starbursts, and abstract shapes that were prevalent in mid-century American decor. Textiles can include tweed, wool, and other fabrics typical of the era.
+
+	Lighting: Lighting is crucial in setting the right atmosphere. Think about using fixtures that resemble satellite shapes or incorporate globes and orbs. Lighting should create a sense of drama and futurism. Use a mix of dramatic, space-themed lighting and the softer, sculptural lighting fixtures of the mid-century period. Sputnik chandeliers can coexist with Arco floor lamps or Nelson bubble lamps.
+
+	Integration of Technology: Although technology from that era was not as advanced as today, the fascination with technology was high. Incorporate elements that give a nod to the technological advancements of the time, like vintage radios or televisions, in a modern setting. While showcasing technology from the space age, also include elements like mid-century modern radios, record players, and early television sets to reflect the broader time period.
+
+	Graphics and Artwork: Use period-specific graphics and artwork. This includes mid-century modern art, propaganda posters from the space race era, and abstract patterns.
+
+	Overall Cohesion: Ensure that the design elements come together in a cohesive manner. Each piece should contribute to the overarching space-age theme without overwhelming the space.
+
+	Nostalgic Yet Timeless: Aim for a balance between nostalgia and timelessness. The design should pay homage to the era but also fit comfortably in a modern context.
+
+
+Step 6: Add the following phrase to the end of the prompt: " + Expert Composition + HDR10 + 8K resolution + ".
+
+Step 7: Choose up to four additional visual effects or photography techniques to enhance the image from the following list: wide-angle lens, tilt-shift, depth of field, film grain, bokeh, rule-of-thirds, golden-ratio, #aweinspiring, #awardwinning, #masterpiece.
+
+Step 8: Concatenate the effects chosen in Step 7 using " + " and append to the prompt.
+
+Step 9: Determine the optimal aspect ratio for the narrative and append the formatting instructions, " --style raw --s 1000 --ar [aspect_ratio]", to the end of the prompt.
+
+Step 10: Do not include quotation marks within the prompt.
+
+Step 11: Display the full prompt.

@@ -1,0 +1,45 @@
+I would like you to help me generate detailed textual descriptions (to be referred to as 'prompts') that describe the visual elements of work of art. The better and more descriptive the prompt content we provide as input, the better (higher fidelity, richer visual experience) output we will get back. We should assume that the artist using these prompts as a reference has very little specific domain knowledge, therefore our prompts should be detailed not only about our subjects, but about all aspects of the desired scene - colors, materials, background objects, supporting details, emotive style, movement, and all other aspects of visual design.
+
+Today we are going to focus on imagery that explores the classic pin-up poster style as popularized by the artist Gil Elvgren. This style is particularly evident in his iconic pin-up art, can be described as a harmonious blend of playful sensuality, vibrant color, and mid-20th-century Americana. His works are characterized by their whimsical, often light-hearted portrayal of women in various everyday scenarios, with a touch of idealized beauty and subtle suggestiveness.
+
+To produce a set of prompts, please follow the guidance below:
+
+Step 1: Define the Setting and Activity:
+	Choose a setting (e.g., beach, kitchen, garden, city street).
+	Select an everyday or playful activity appropriate for the setting (e.g., baking, riding a bicycle, playing with a pet).
+
+Step 2: Describe the Subject:
+	Portray a woman with features and attire reminiscent of the 1940s or 1950s.
+	Mention specific clothing details (e.g., high-waisted skirt, polka-dot dress), hair color, eye color.
+	Include a suggestive pose that fits the activity, possibly in an ironic twist based on the setting.
+
+Step 3: Incorporate Vibrant Colors:
+	Specify bold and bright colors for the attire and the setting.
+	Ensure the colors are harmonious and eye-catching.
+
+Step 4: Add Whimsical Elements:
+	Introduce light-hearted or humorous elements relevant to the activity (e.g., a cake mishap in the kitchen, a playful pet causing mild chaos).
+
+Step 5: Express Emotions:
+	Describe the facial expression of the subject, conveying emotions like surprise, joy, or playful mischief.
+
+Step 6: Detail the Background:
+	Create a detailed background that complements and enhances the central scene.
+	Include elements that add depth and context to the setting.
+
+Step 7: Emphasize Idealized Beauty and Style:
+	Describe an idealized, hourglass figure.
+	Include details like perfectly styled hair and a radiant complexion.
+
+Step 8: Focus on Texture and Smoothness:
+	Mention the texture of clothing and surroundings, emphasizing smoothness and softness where appropriate.
+
+Example:
+	Using these guidelines, a valid example of a generated prompt might look like:
+	"In a vibrant, sunlit kitchen, a woman with curly brunette hair and a radiant smile, dressed in a bright red, high-waisted skirt and a polka-dot blouse, is playfully icing a cake. Her pose is whimsically exaggerated as she tries to balance a tipping bowl of cherries. The kitchen is retro-styled, with pastel-colored appliances and checkered floor tiles. She exudes a sense of joy and playful mischief, with a background that includes an open window showing a sunny day outside."
+
+Do not use Dall-E to create images unless expressly asked to do so. Only generate textural descriptions.
+
+Step 9: Please generate three prompts using this guidance.
+	
+Step 10: After presenting the three prompts, ask the user if they would like you to modify any of the provided prompts, or if they would like to start with a new example. If they want to modify, ask them what aspect should be changed. If they want to start a new example, return to the start of the script.

@@ -1,0 +1,55 @@
+Creature Feature - A ChatGPT Game
+
+We are going to play a game that utilizes your extensive knowledge of zoology, evolutionary science, literature, illustration and cinematography. We are going to call the game "Creature Feature". This game is about cross-breeding two animals to create an entirely new kind of creature.
+
+Here is how the game will work:
+1. Start by presenting the user with the following text: "Creature Feature - A ChatGPT Game of Genetics"
+
+2. Randomly select two creatures, one male and one female. Tell the user what two creatures have been chosen using a common naming convention.
+
+3. List some Creeature Traits of each of the selected creatures, including:
+	a) General description of the creature, it's size, temperament and natural habitat
+	b) Biological Classification (Class, Order, Family, Genus, Species). If the creature is fictional, please make up a viable classification.
+	b) Exterior covering (Epidermis, Scales, Fur, Feathers, etc)
+	c) Coloring or pattern
+	d) Diet, eating habits and preferences
+	e) Primary Mode of Locomotion
+	f) Key or Identifying characteristics
+
+4. Use Dall-E to generate two images, one for each of the creatures. Try to illustrate one or more of the key characteristics of each.
+
+5. Determine the likelihood of a successful breeding attempt between the two creatures. Creatures that are similiar in multiple ways should have a higher chance of breeding success. Limit the ranges to between 10% success rate and 95% success rate, in increments of 5%.
+
+6. Display the likely success rate to the user and ask if they want to change either the male or female creature. If they want to change one, please reselect a new option and return to step 3.
+
+7. Once the user has indicated they wish to proceed with the breeding attempt, display the text: "Running breeding program...."
+
+8. Logic for breeding attempt:
+	a) Using the success chance identified in Step 5 as a weighting, randomly select one of the following options: Critical Failure, Failure, Success, Critical Success.
+	b) If the outcome is Critical Failure, then randomly select either the male or female creature and indicate to the user that the selected creature died during the breeding attempt.
+	c) If the outcome is Failure, then indicate to the user that the breeding attempt was not successful.
+	d) If the outcome is Success, then indicate to the user that breeding attempt was successful.
+	e) If the outcome is Critical Success, then indicate to the user that the breeding attempt was extremely successful.
+
+9. For successful outcomes (8d), you will create a new creature using the following logic:
+	a) Randomly select an exterior covering type from one of the parent creatures
+	b) Randomly select a coloring or pattern from from one of the parent creatures
+	c) Randomly select a diet from from one of the parent creatures
+	d) Randomly select a primary mode of locomotion from from one of the parent creatures
+	e) Randomly select between two and five of the key or identifying characteristics of the parent creatures
+
+10. For critically successful outcomes (8e), you will create a new creature using the following logic:
+	a) Randomly select an exterior covering type from one of the parent creatures
+	b) Create a new blend of the coloring or pattern from from both of the parent creatures
+	c) Randomly select a diet from from one of the parent creatures
+	d) Randomly select a primary mode of locomotion from from one of the parent creatures
+	e) Randomly select between three and six of the key or identifying characteristics of the parent creatures
+	f) Generate a new unique trait for the creature
+	
+11. In either success situation, randomly select either male or female for the new creature.
+12. In either success situation, generate a new common name for the new creature and determine the most likely biological classification. Display these to the user.
+13. In either success situation, display the Creature Traits to the user.
+14. In either success situation, use Dall-E to generate an image for the new creature. Try to illustrate one or more of the key characteristics.
+15. Display the following text to the user: "Setting up for the next generation..."
+16. Retain the newly created creature and randomly select an opposite sex creature. Tell the user what two creatures have been chosen using a common naming convention.
+17. Proceed from step 3.
